@@ -1,0 +1,214 @@
+(dp0
+S'Bound by Honor (a.k.a. Blood In, Blood Out) (1993)'
+p1
+S'0106469'
+p2
+sS'Blow Dry (a.k.a. Never Better) (2001)'
+p3
+S'0212380'
+p4
+sS'Great Silence, The (Grande silenzio, Il) (1969)'
+p5
+S'0063032'
+p6
+sS'Phish: Bittersweet Motel (2000)'
+p7
+S'0168515'
+p8
+sS'Speed Zone! (a.k.a. Cannonball Run III) (1989)'
+p9
+S'0098369'
+p10
+sS'Semi-Tough (1978)'
+p11
+S'0078227'
+p12
+sS'Sex and Zen (Rou pu Tuan zhi tou Qing bao Jian) (1992)'
+p13
+S'0105287'
+p14
+sS'Ghoulies (1985)'
+p15
+S'0089200'
+p16
+sS'Satisfaction (a.k.a. Girls of Summer) (1988)'
+p17
+S'3205236'
+p18
+sS'Diamond Men (2001)'
+p19
+S'0200427'
+p20
+sS'Titanica (1992)'
+p21
+S'0105601'
+p22
+sS'Exit Wounds (2001)'
+p23
+S'0242445'
+p24
+sS"Wild Child, The (Enfant sauvage, L') (1970)"
+p25
+S'1024255'
+p26
+sS'Soul Survivors (a.k.a. The Killer Cut) (2001)'
+p27
+S'0218619'
+p28
+sS'What Time Is It There? (Ni neibian jidian) (2001)'
+p29
+S'0269746'
+p30
+sS'Nine to Five (a.k.a. 9 to 5) (1980)'
+p31
+S'0080319'
+p32
+sS'City of the Living Dead (a.k.a. Gates of Hell, The) (Paura nella citt\xc3\xa0 dei morti viventi) (1980)'
+p33
+S'0081318'
+p34
+sS'Way of the Dragon, The (a.k.a. Return of the Dragon) (Meng long guo jiang) (1972)'
+p35
+S'0068935'
+p36
+sS"Big Momma's House (2000)"
+p37
+S'0208003'
+p38
+sS'Go Figure (Va savoir) (2001)'
+p39
+S'0447987'
+p40
+sS"Ocean's Eleven (a.k.a. Ocean's 11) (1960)"
+p41
+S'0240772'
+p42
+sS'Moscow Does Not Believe in Tears (Moskva slezam ne verit) (1979)'
+p43
+S'0079579'
+p44
+sS'Spriggan (Supurigan) (1998)'
+p45
+S'0164917'
+p46
+sS'Tic Code, The (1998)'
+p47
+S'0165986'
+p48
+sS'8 \xc2\xbd Women (a.k.a. 8 1/2 Women) (a.k.a. Eight and a Half Women) (1999)'
+p49
+S'0154443'
+p50
+sS'Lady in White (a.k.a. The Mystery of the Lady in White) (1988)'
+p51
+S'0095484'
+p52
+sS'Christiane F. (a.k.a. We Children from Bahnhof Zoo) (Christiane F. - Wir Kinder vom Bahnhof Zoo) (1981)'
+p53
+S'0082176'
+p54
+sS'Ghoulies II (1987)'
+p55
+S'0093091'
+p56
+sS'M*A*S*H (a.k.a. MASH) (1970)'
+p57
+S'0068098'
+p58
+sS'Tetsuo, the Ironman (Tetsuo) (1988)'
+p59
+S'0096251'
+p60
+sS"Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001)"
+p61
+S'0241527'
+p62
+sS'Wisdom of Crocodiles, The (a.k.a. Immortality) (2000)'
+p63
+S'0120894'
+p64
+sS'Pok\xc3\xa9mon 3: The Movie (2001)'
+p65
+S'0235679'
+p66
+sS'Crawling Eye, The (a.k.a. Trollenberg Terror, The) (1958)'
+p67
+S'0052320'
+p68
+sS'Thirteen Ghosts (a.k.a. Thir13en Ghosts) (2001)'
+p69
+S'0245674'
+p70
+sS'How the Grinch Stole Christmas (a.k.a. The Grinch) (2000)'
+p71
+S'0170016'
+p72
+sS'Legend of Rita, The (Stille nach dem Schu\xc3\x9f, Die) (1999)'
+p73
+S'0234805'
+p74
+sS"Bear, The (Ours, L') (1988)"
+p75
+S'5491994'
+p76
+sS'Horror Hotel (a.k.a. City of the Dead, The) (1960)'
+p77
+S'0074455'
+p78
+sS'Iron Monkey (Siu nin Wong Fei-hung ji: Tit Ma Lau) (1993)'
+p79
+S'0108148'
+p80
+sS'Madadayo (a.k.a. Not Yet) (1993)'
+p81
+S'0107474'
+p82
+sS'F/X2 (a.k.a. F/X 2 - The Deadly Art of Illusion) (1991)'
+p83
+S'0101846'
+p84
+sS'Day I Became a Woman, The (Roozi khe zan shodam) (2000)'
+p85
+S'0260332'
+p86
+sS'Return to Snowy River (a.k.a. The Man From Snowy River II) (1988)'
+p87
+S'0095993'
+p88
+sS'Toxic Avenger, The (1985)'
+p89
+S'0090190'
+p90
+sS'Intimacy (2000)'
+p91
+S'0256103'
+p92
+sS'In the Mood For Love (Fa yeung nin wa) (2000)'
+p93
+S'0118694'
+p94
+sS'Big Kahuna, The (2000)'
+p95
+S'0189584'
+p96
+sS'Enigma of Kaspar Hauser, The (a.k.a. Mystery of Kaspar Hauser, The) (Jeder f\xc3\xbcr sich und Gott Gegen Alle) (1974)'
+p97
+S'0071691'
+p98
+sS'Marat/Sade (1966)'
+p99
+S'0060668'
+p100
+sS'Gross Anatomy (a.k.a. A Cut Above) (1989)'
+p101
+S'0097458'
+p102
+sS'Adventures of Felix, The (a.k.a. Funny Felix) (Dr\xc3\xb4le de F\xc3\xa9lix) (2000)'
+p103
+S'0228242'
+p104
+sS'Return of the Magnificent Seven, The (a.k.a. Return of the Seven) (1966)'
+p105
+S'0060897'
+p106
+s.

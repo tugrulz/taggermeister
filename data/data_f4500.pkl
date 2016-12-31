@@ -1,0 +1,334 @@
+(dp0
+S'Tadpole (2002)'
+p1
+S'0271219'
+p2
+sS"What to Do in Case of Fire (Was tun, wenn's brennt?) (2002)"
+p3
+S'0207198'
+p4
+sS'Ninth Configuration, The (a.k.a. Twinkle, Twinkle, Killer Kane) (1980)'
+p5
+S'0081237'
+p6
+sS'Earth (1998)'
+p7
+S'0150433'
+p8
+sS'Crazies, The (a.k.a. Code Name: Trixie) (1973)'
+p9
+S'0455407'
+p10
+sS'North Sea Hijack (a.k.a. Ffolkes) (1979)'
+p11
+S'0081809'
+p12
+sS'City of Lost Souls, The (Hy\xc3\xb4ryuu-gai) (2000)'
+p13
+S'0084724'
+p14
+sS'King of Comedy, The (1983)'
+p15
+S'0188766'
+p16
+sS'Happy Times (Xingfu shiguang) (2000)'
+p17
+S'0041509'
+p18
+sS'Zombie Holocaust (a.k.a. Doctor Butcher M.D.) (Zombi Holocaust) (1980)'
+p19
+S'0079788'
+p20
+sS'Bible, The (a.k.a. Bible... In the Beginning, The) (1966)'
+p21
+S'2245988'
+p22
+sS"Man on the Train (Homme du train, L') (2002)"
+p23
+S'0301414'
+p24
+sS'Dark Blue (2003)'
+p25
+S'1319636'
+p26
+sS'Delirious (1991)'
+p27
+S'0101701'
+p28
+sS'They Call Me Bruce? (a.k.a. A Fistful of Chopsticks) (1982)'
+p29
+S'0084786'
+p30
+sS'Salo, or The 120 Days of Sodom (Sal\xc3\xb2 o le 120 giornate di Sodoma) (1976)'
+p31
+S'0073650'
+p32
+sS"My Architect: A Son's Journey (2003)"
+p33
+S'1985268'
+p34
+sS'All About Lily Chou-Chou (Riri Shushu no subete) (2001)'
+p35
+S'0297721'
+p36
+sS"Puma Man, The (a.k.a. The Pumaman) (L'Uomo Puma) (1980)"
+p37
+S'0081693'
+p38
+sS"Lady and the Duke, The (Anglaise et le duc, L') (2001)"
+p39
+S'0239234'
+p40
+sS'Blind Chance (Przypadek) (1981)'
+p41
+S'0084549'
+p42
+sS'Beyond the Clouds (Al di l\xc3\xa0 delle nuvole) (1996)'
+p43
+S'0114086'
+p44
+sS'Volcano High (Whasango) (2001)'
+p45
+S'0301429'
+p46
+sS'Take Care of My Cat (Goyangileul butaghae) (2001)'
+p47
+S'0296658'
+p48
+sS'Banana Joe (1981)'
+p49
+S'0082045'
+p50
+sS'Visitor Q (Bizita Q) (2001)'
+p51
+S'0290329'
+p52
+sS'Glenn Miller Story, The (1953)'
+p53
+S'0047030'
+p54
+sS'Men in Black II (a.k.a. MIIB) (a.k.a. MIB 2) (2002)'
+p55
+S'0120912'
+p56
+sS'Burial Ground (a.k.a. Zombie Horror) (a.k.a. Zombie 3) (Notti del Terrore, Le) (1981)'
+p57
+S'0081248'
+p58
+sS'V. I. Warshawski (1991)'
+p59
+S'0103184'
+p60
+sS'Goat, The (a.k.a. Knock On Wood) (Ch\xc3\xa8vre, La) (1981)'
+p61
+S'4437216'
+p62
+sS'Lawless Heart, The (2003)'
+p63
+S'0276276'
+p64
+sS'Barber of Siberia, The (Sibirskij tsiryulnik) (1998)'
+p65
+S'0120125'
+p66
+sS'Once Upon a Time in China II (Wong Fei-hung Ji Yi: Naam yi dong ji keung) (1992)'
+p67
+S'0105839'
+p68
+sS'Unvanquished, The (Aparajito) (1957)'
+p69
+S'1484574'
+p70
+sS"Last Year at Marienbad (Ann\xc3\xa9e derni\xc3\xa8re \xc3\xa0 Marienbad, L') (1961)"
+p71
+S'0054632'
+p72
+sS'Dogtown and Z-Boyz (2001)'
+p73
+S'0275309'
+p74
+sS'Rome, Open City (a.k.a. Open City) (Roma, citt\xc3\xa0 aperta) (1945)'
+p75
+S'0038890'
+p76
+sS"Last Kiss, The (Ultimo bacio, L') (2001)"
+p77
+S'0434139'
+p78
+sS'Secret of My Succe$s, The (a.k.a. The Secret of My Success) (1987)'
+p79
+S'0093936'
+p80
+sS'Texas Chainsaw Massacre, The (2003)'
+p81
+S'0072271'
+p82
+sS'Great Train Robbery, The (a.k.a. First Great Train Robbery, The) (1979)'
+p83
+S'0079240'
+p84
+sS'Faces of Death 5 (1996)'
+p85
+S'0077533'
+p86
+sS'Once Upon a Time in China III (Wong Fei-hung tsi sam: Siwong tsangba) (1993)'
+p87
+S'0108592'
+p88
+sS'Sink the Bismark! (1960)'
+p89
+S'0054310'
+p90
+sS'Five Card Stud (a.k.a. 5 Card Stud) (1968)'
+p91
+S'0062626'
+p92
+sS'Jane Eyre (1944)'
+p93
+S'1229822'
+p94
+sS'Victory (a.k.a. Escape to Victory) (1981)'
+p95
+S'0083284'
+p96
+sS'Pursuit of D.B. Cooper, The (a.k.a. Pursuit) (1981)'
+p97
+S'0082958'
+p98
+sS'Entity, The (1981)'
+p99
+S'2024432'
+p100
+sS'Revolution Will Not Be Televised, The (a.k.a. Chavez: Inside the Coup) (2003)'
+p101
+S'0363510'
+p102
+sS'Pokemon 4 Ever (a.k.a. Pok\xc3\xa9mon 4: The Movie) (2002)'
+p103
+S'0287635'
+p104
+sS'Court Jester, The (1956)'
+p105
+S'0049096'
+p106
+sS'Monster Club, The (1980)'
+p107
+S'0081178'
+p108
+sS'Together (Han ni Zai Yiki) (2002)'
+p109
+S'0203166'
+p110
+sS'976-EVIL (1989)'
+p111
+S'0094597'
+p112
+sS'Ms. 45 (a.k.a. Angel of Vengeance) (1981)'
+p113
+S'0082776'
+p114
+sS'Shogun Assassin (1980)'
+p115
+S'0081506'
+p116
+sS'Japon (a.k.a. Japan) (Jap\xc3\xb3n) (2002)'
+p117
+S'0322824'
+p118
+sS'His Secret Life (a.k.a. Ignorant Fairies, The) (Fate ignoranti, Le) (2001)'
+p119
+S'0274497'
+p120
+sS'Returner (Ritaanaa) (2002)'
+p121
+S'0339579'
+p122
+sS'Charter Trip, The (a.k.a. Package Tour, The) (S\xc3\xa4llskapsresan) (1980)'
+p123
+S'2800786'
+p124
+sS'FearDotCom (a.k.a. Fear.com) (a.k.a. Fear Dot Com) (2002)'
+p125
+S'0295254'
+p126
+sS'Time and Tide (Seunlau Ngaklau) (2000)'
+p127
+S'0251433'
+p128
+sS'Jacob the Liar (Jakob, der L\xc3\xbcgner) (1975)'
+p129
+S'0071688'
+p130
+sS'Lost Honor of Katharina Blum, The (Verlorene Ehre der Katharina Blum oder: Wie Gewalt entstehen und wohin sie f\xc3\xbchren kann, Die) (1975)'
+p131
+S'0073858'
+p132
+sS'Sorry, Wrong Number (1948)'
+p133
+S'0040823'
+p134
+sS"Apartment, The (Appartement, L') (1996)"
+p135
+S'0053604'
+p136
+sS'Zombie (a.k.a. Zombie 2: The Dead Are Among Us) (Zombi 2) (1979)'
+p137
+S'0077402'
+p138
+sS"Lover, The (Amant, L') (1992)"
+p139
+S'1179933'
+p140
+sS'Rhapsody in August (Hachi-gatsu no ky\xc3\xb4shikyoku) (1991)'
+p141
+S'0101991'
+p142
+sS'Eyewitness (a.k.a. The Janitor) (1981)'
+p143
+S'5369352'
+p144
+sS'Honeysuckle Rose (a.k.a. On the Road Again) (1980)'
+p145
+S'0080888'
+p146
+sS'So Close (Chik Yeung Tin Sai) (2002)'
+p147
+S'0300620'
+p148
+sS'Liquid Sky (1982)'
+p149
+S'0085852'
+p150
+sS'Macbeth (a.k.a. Tragedy of Macbeth, The) (1971)'
+p151
+S'2884018'
+p152
+sS'River of No Return (1954)'
+p153
+S'0047422'
+p154
+sS"Amy's O (a.k.a. Amy's Orgasm) (2001)"
+p155
+S'0280424'
+p156
+sS'Enter the Ninja (a.k.a. Ninja I) (1981)'
+p157
+S'0082332'
+p158
+sS"Slap Her... She's French (a.k.a. She Gets What She Wants) (2002)"
+p159
+S'0187512'
+p160
+sS'Ninja Scroll (J\xc3\xbbbei ninp\xc3\xbbch\xc3\xb4) (1995)'
+p161
+S'0107692'
+p162
+sS'Super Fuzz (a.k.a. Super Snooper) (Poliziotto superpi\xc3\xb9) (1980)'
+p163
+S'0082924'
+p164
+sS'Chasing Papi (a.k.a. Papi Chulo) (2003)'
+p165
+S'0323572'
+p166
+s.

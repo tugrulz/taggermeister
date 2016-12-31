@@ -1,0 +1,5786 @@
+(dp0
+S'Solaris (Solyaris) (1972)'
+p1
+S'0069293'
+p2
+sS'Suspect (1987)'
+p3
+S'0094082'
+p4
+sS'Fluffer, The (2001)'
+p5
+S'0245115'
+p6
+sS'Contender, The (2000)'
+p7
+S'0370927'
+p8
+sS'Barefoot Contessa, The (1954)'
+p9
+S'0046754'
+p10
+sS'Breaker! Breaker! (1977)'
+p11
+S'0075783'
+p12
+sS'Black and White (1999)'
+p13
+S'0149898'
+p14
+sS'Brannigan (1975)'
+p15
+S'0072732'
+p16
+sS'Greatest Story Ever Told, The (1965)'
+p17
+S'0059245'
+p18
+sS"Buffalo Bill and the Indians, or Sitting Bull's History Lesson (a.k.a. Buffalo Bill and the Indians) (1976)"
+p19
+S'0074254'
+p20
+sS'Santa Sangre (1989)'
+p21
+S'0098253'
+p22
+sS'Monsieur Verdoux (1947)'
+p23
+S'0039631'
+p24
+sS'Pi\xc3\xb1ero (2001)'
+p25
+S'0261066'
+p26
+sS'Eight Men Out (1988)'
+p27
+S'0095082'
+p28
+sS'They Live (1988)'
+p29
+S'0096256'
+p30
+sS'Father Goose (1964)'
+p31
+S'0058092'
+p32
+sS'Code of Silence (1985)'
+p33
+S'0088936'
+p34
+sS'Count of Monte Cristo, The (2002)'
+p35
+S'0245844'
+p36
+sS'102 Dalmatians (2000)'
+p37
+S'0211181'
+p38
+sS'Fantasticks, The (1995)'
+p39
+S'0113026'
+p40
+sS'Funny Girl (1968)'
+p41
+S'0062994'
+p42
+sS'Kiss of the Dragon (2001)'
+p43
+S'0271027'
+p44
+sS'Big Shots (1987)'
+p45
+S'0092655'
+p46
+sS'Talk Radio (1988)'
+p47
+S'0096219'
+p48
+sS'Kid, The (2000)'
+p49
+S'0475992'
+p50
+sS'Pixote (1981)'
+p51
+S'0082912'
+p52
+sS'Wonderland (1999)'
+p53
+S'0171865'
+p54
+sS'Romeo Must Die (2000)'
+p55
+S'0165929'
+p56
+sS"What's the Worst That Could Happen? (2001)"
+p57
+S'0161083'
+p58
+sS'Disorganized Crime (1989)'
+p59
+S'0097211'
+p60
+sS'Jacknife (1989)'
+p61
+S'0097607'
+p62
+sS'All That Heaven Allows (1955)'
+p63
+S'0047811'
+p64
+sS'Tape (2001)'
+p65
+S'0275719'
+p66
+sS'Fantastic Voyage (1966)'
+p67
+S'0060397'
+p68
+sS'Alamo, The (1960)'
+p69
+S'0053580'
+p70
+sS'Specials, The (2000)'
+p71
+S'0382918'
+p72
+sS'Clean and Sober (1988)'
+p73
+S'0094884'
+p74
+sS'Shadow of the Vampire (2000)'
+p75
+S'0189998'
+p76
+sS'Double Take (2001)'
+p77
+S'0238948'
+p78
+sS'Sugarland Express, The (1974)'
+p79
+S'0072226'
+p80
+sS'Abbott and Costello Meet the Mummy (1955)'
+p81
+S'0047795'
+p82
+sS'Last Laugh, The (Letzte Mann, Der) (1924)'
+p83
+S'0015064'
+p84
+sS"Vampire's Kiss (1989)"
+p85
+S'0098577'
+p86
+sS'Cherry 2000 (1987)'
+p87
+S'0092746'
+p88
+sS'Skipped Parts (2000)'
+p89
+S'0209322'
+p90
+sS'Officer and a Gentleman, An (1982)'
+p91
+S'0084434'
+p92
+sS'Death Warrant (1990)'
+p93
+S'0099385'
+p94
+sS'Horrors of Spider Island (Ein Toter Hing im Netz) (1960)'
+p95
+S'0054333'
+p96
+sS'Cousins (1989)'
+p97
+S'0097116'
+p98
+sS'Jabberwocky (1977)'
+p99
+S'0076221'
+p100
+sS'Death Before Dishonor (1987)'
+p101
+S'0092854'
+p102
+sS'Guadalcanal Diary (1943)'
+p103
+S'0035957'
+p104
+sS'Servant, The (1963)'
+p105
+S'0057490'
+p106
+sS'Nine Lives of Fritz the Cat, The (1974)'
+p107
+S'0071913'
+p108
+sS'Montenegro (1981)'
+p109
+S'0082770'
+p110
+sS'Pay It Forward (2000)'
+p111
+S'0223897'
+p112
+sS'Suspiria (1977)'
+p113
+S'0076786'
+p114
+sS'Burglar (1987)'
+p115
+S'0092710'
+p116
+sS'Other Side of Sunday, The (S\xc3\xb8ndagsengler) (1996)'
+p117
+S'0117817'
+p118
+sS'Dancing at the Blue Iguana (2000)'
+p119
+S'0217355'
+p120
+sS'Critters (1986)'
+p121
+S'0090887'
+p122
+sS'Crossing Delancey (1988)'
+p123
+S'0094921'
+p124
+sS'Something for Everyone (1970)'
+p125
+S'0066392'
+p126
+sS'Roadside Prophets (1992)'
+p127
+S'0105267'
+p128
+sS"Weekend at Bernie's II (1993)"
+p129
+S'0108539'
+p130
+sS'House by the Cemetery, The (Quella villa accanto al cimitero) (1981)'
+p131
+S'0082966'
+p132
+sS'Spy Who Loved Me, The (1977)'
+p133
+S'0322768'
+p134
+sS'Punchline (1988)'
+p135
+S'0095927'
+p136
+sS'Bounce (2000)'
+p137
+S'0186894'
+p138
+sS'Throw Momma from the Train (1987)'
+p139
+S'0094142'
+p140
+sS'Norma Rae (1979)'
+p141
+S'0079638'
+p142
+sS"French Lieutenant's Woman, The (1981)"
+p143
+S'0082416'
+p144
+sS'Incredible Shrinking Woman, The (1981)'
+p145
+S'0082558'
+p146
+sS'License to Drive (1988)'
+p147
+S'0095519'
+p148
+sS'Prick Up Your Ears (1987)'
+p149
+S'0093776'
+p150
+sS'Majestic, The (2001)'
+p151
+S'0268995'
+p152
+sS"Knight's Tale, A (2001)"
+p153
+S'0183790'
+p154
+sS'H.O.T.S. (1979)'
+p155
+S'0079257'
+p156
+sS'American Pimp (1999)'
+p157
+S'0179074'
+p158
+sS'Disorderlies (1987)'
+p159
+S'0092897'
+p160
+sS'Death Ship (1980)'
+p161
+S'0080603'
+p162
+sS'Magnificent Seven, The (1960)'
+p163
+S'2404435'
+p164
+sS'Shirley Valentine (1989)'
+p165
+S'0098319'
+p166
+sS'Salvador (1986)'
+p167
+S'0091886'
+p168
+sS'Sudden Impact (1983)'
+p169
+S'0086383'
+p170
+sS'Tall Guy, The (1989)'
+p171
+S'0098436'
+p172
+sS'In Crowd, The (2000)'
+p173
+S'0163676'
+p174
+sS'Heart and Souls (1993)'
+p175
+S'0107091'
+p176
+sS'Goya in Bordeaux (Goya en Burdeos) (1999)'
+p177
+S'0210717'
+p178
+sS'L.I.E. (2001)'
+p179
+S'0242587'
+p180
+sS'My Life (1993)'
+p181
+S'0107630'
+p182
+sS'Horse Soldiers, The (1959)'
+p183
+S'0052902'
+p184
+sS'Punisher, The (1989)'
+p185
+S'5511288'
+p186
+sS'Italian for Beginners (Italiensk for begyndere) (2000)'
+p187
+S'0243862'
+p188
+sS'Dirty Harry (1971)'
+p189
+S'0066999'
+p190
+sS'Chuck & Buck (2000)'
+p191
+S'0200530'
+p192
+sS'Big Trouble in Little China (1986)'
+p193
+S'0090728'
+p194
+sS'Independent, The (2000)'
+p195
+S'1477101'
+p196
+sS'Conan the Destroyer (1984)'
+p197
+S'0087078'
+p198
+sS'Filth and the Fury, The (2000)'
+p199
+S'0236216'
+p200
+sS'UHF (1989)'
+p201
+S'0098546'
+p202
+sS'Voyage to the Bottom of the Sea (1961)'
+p203
+S'0055608'
+p204
+sS'When a Stranger Calls (1979)'
+p205
+S'0080130'
+p206
+sS'Two Women (Ciociara, La) (1960)'
+p207
+S'0054749'
+p208
+sS'Bell, Book and Candle (1958)'
+p209
+S'0051406'
+p210
+sS'Howling III: The Marsupials (1987)'
+p211
+S'0093227'
+p212
+sS'Aim\xc3\xa9e & Jaguar (1999)'
+p213
+S'0130444'
+p214
+sS'Penn & Teller Get Killed (1989)'
+p215
+S'0098073'
+p216
+sS'Elmer Gantry (1960)'
+p217
+S'0053793'
+p218
+sS'Erin Brockovich (2000)'
+p219
+S'0195685'
+p220
+sS'Private School (1983)'
+p221
+S'0086143'
+p222
+sS'Day the Earth Caught Fire, The (1961)'
+p223
+S'0054790'
+p224
+sS"Cutter's Way (1981)"
+p225
+S'0082220'
+p226
+sS'Fat Man and Little Boy (1989)'
+p227
+S'0097336'
+p228
+sS'Kentucky Fried Movie, The (1977)'
+p229
+S'0076257'
+p230
+sS'Alaska: Spirit of the Wild (1997)'
+p231
+S'0130445'
+p232
+sS'Whipped (2000)'
+p233
+S'0174336'
+p234
+sS"She's Out of Control (1989)"
+p235
+S'0098308'
+p236
+sS"Elvis: That's the Way It Is (1970)"
+p237
+S'0065687'
+p238
+sS"King Solomon's Mines (1937)"
+p239
+S'0029081'
+p240
+sS'Communion (1989)'
+p241
+S'0097100'
+p242
+sS'Croupier (1998)'
+p243
+S'0159382'
+p244
+sS'Pootie Tang (2001)'
+p245
+S'0258038'
+p246
+sS'All Over the Guy (2001)'
+p247
+S'0250202'
+p248
+sS'Family Business (1989)'
+p249
+S'0097328'
+p250
+sS'Bully (2001)'
+p251
+S'0242193'
+p252
+sS"Jesus' Son (1999)"
+p253
+S'0186253'
+p254
+sS'Man in the Moon, The (1991)'
+p255
+S'0478735'
+p256
+sS'Phantom of the Paradise (1974)'
+p257
+S'0071994'
+p258
+sS'Price of Milk, The (2000)'
+p259
+S'0249893'
+p260
+sS'Incredible Shrinking Man, The (1957)'
+p261
+S'0050539'
+p262
+sS'High Spirits (1988)'
+p263
+S'0095304'
+p264
+sS'Millennium (1989)'
+p265
+S'0097883'
+p266
+sS'Baran (2001)'
+p267
+S'0233841'
+p268
+sS'Moon Over Parador (1988)'
+p269
+S'0095654'
+p270
+sS'Startup.com (2001)'
+p271
+S'0256408'
+p272
+sS'Psycho Beach Party (2000)'
+p273
+S'0206226'
+p274
+sS'Angel Heart (1987)'
+p275
+S'0092563'
+p276
+sS'Double Indemnity (1944)'
+p277
+S'0036775'
+p278
+sS'Lucas (1986)'
+p279
+S'0091445'
+p280
+sS'Crimson Pirate, The (1952)'
+p281
+S'3253442'
+p282
+sS'Turtle Diary (1985)'
+p283
+S'0090219'
+p284
+sS'Crocodile Dundee in Los Angeles (2001)'
+p285
+S'0231402'
+p286
+sS'Book of Shadows: Blair Witch 2 (2000)'
+p287
+S'0229260'
+p288
+sS'Red Planet (2000)'
+p289
+S'0199753'
+p290
+sS'Slipper and the Rose, The (1976)'
+p291
+S'0075232'
+p292
+sS'48 Hrs. (1982)'
+p293
+S'0083511'
+p294
+sS'Miracle Mile (1989)'
+p295
+S'0097889'
+p296
+sS'Endless Summer, The (1966)'
+p297
+S'0202336'
+p298
+sS'Mothman Prophecies, The (2002)'
+p299
+S'0265349'
+p300
+sS"Look Who's Talking (1989)"
+p301
+S'0097778'
+p302
+sS'Appointment with Death (1988)'
+p303
+S'0094669'
+p304
+sS'Kronos (1957)'
+p305
+S'0050610'
+p306
+sS'One Day in September (1999)'
+p307
+S'0230591'
+p308
+sS'Fabulous Baker Boys, The (1989)'
+p309
+S'0097322'
+p310
+sS'Beaches (1988)'
+p311
+S'0094715'
+p312
+sS'Spy Game (2001)'
+p313
+S'0266987'
+p314
+sS'Harley Davidson and the Marlboro Man (1991)'
+p315
+S'0102005'
+p316
+sS'Scary Movie (2000)'
+p317
+S'0175142'
+p318
+sS'Duel in the Sun (1946)'
+p319
+S'0038499'
+p320
+sS'Opera (1987)'
+p321
+S'0093677'
+p322
+sS'Braddock: Missing in Action III (1988)'
+p323
+S'0094792'
+p324
+sS'Hellraiser III: Hell on Earth (1992)'
+p325
+S'0104409'
+p326
+sS'Beach Blanket Bingo (1965)'
+p327
+S'0058953'
+p328
+sS'Cleo from 5 to 7 (Cl\xc3\xa9o de 5 \xc3\xa0 7) (1962)'
+p329
+S'0055852'
+p330
+sS'K-9 (1989)'
+p331
+S'0097637'
+p332
+sS'Down to Earth (2001)'
+p333
+S'0231775'
+p334
+sS'Chocolat (2000)'
+p335
+S'0241303'
+p336
+sS'28 Days (2000)'
+p337
+S'0191754'
+p338
+sS'Earth Girls Are Easy (1989)'
+p339
+S'0097257'
+p340
+sS"It's a Mad, Mad, Mad, Mad World (1963)"
+p341
+S'0057193'
+p342
+sS'All the Pretty Horses (2000)'
+p343
+S'0149624'
+p344
+sS'Girlfight (2000)'
+p345
+S'0210075'
+p346
+sS'Longest Yard, The (1974)'
+p347
+S'0071771'
+p348
+sS'Silent Fall (1994)'
+p349
+S'0111187'
+p350
+sS'Next of Kin (1989)'
+p351
+S'0097967'
+p352
+sS'Gorillas in the Mist (1988)'
+p353
+S'0095243'
+p354
+sS'Amazon Women on the Moon (1987)'
+p355
+S'0092546'
+p356
+sS'Anatomy (Anatomie) (2000)'
+p357
+S'0187696'
+p358
+sS'Joe Dirt (2001)'
+p359
+S'0245686'
+p360
+sS'American Outlaws (2001)'
+p361
+S'0244000'
+p362
+sS'X: The Unknown (1956)'
+p363
+S'0049967'
+p364
+sS'Female Trouble (1975)'
+p365
+S'0072979'
+p366
+sS'Less Than Zero (1987)'
+p367
+S'0093407'
+p368
+sS'Cast Away (2000)'
+p369
+S'0162222'
+p370
+sS'Sons of Katie Elder (1965)'
+p371
+S'0059740'
+p372
+sS'Go Tigers! (2001)'
+p373
+S'0270971'
+p374
+sS'Jaws: The Revenge (1987)'
+p375
+S'0093300'
+p376
+sS'Butterfly (La lengua de las mariposas) (1999)'
+p377
+S'0188030'
+p378
+sS'Outland (1981)'
+p379
+S'0082869'
+p380
+sS'Waking Life (2001)'
+p381
+S'0243017'
+p382
+sS'Immediate Family (1989)'
+p383
+S'0097567'
+p384
+sS'Turner & Hooch (1989)'
+p385
+S'0098536'
+p386
+sS'Major League (1989)'
+p387
+S'0097815'
+p388
+sS'Shanghai Noon (2000)'
+p389
+S'0184894'
+p390
+sS'Mr. Mom (1983)'
+p391
+S'0085970'
+p392
+sS'Wizard, The (1989)'
+p393
+S'0098663'
+p394
+sS'Musketeer, The (2001)'
+p395
+S'0246544'
+p396
+sS'Little Women (1933)'
+p397
+S'0024264'
+p398
+sS'Empire of the Sun (1987)'
+p399
+S'0092965'
+p400
+sS'Born Romantic (2000)'
+p401
+S'0236034'
+p402
+sS"Dude, Where's My Car? (2000)"
+p403
+S'0242423'
+p404
+sS'White Christmas (1954)'
+p405
+S'0047673'
+p406
+sS'Princess Diaries, The (2001)'
+p407
+S'0247638'
+p408
+sS'Toxic Avenger Part III: The Last Temptation of Toxie, The (1989)'
+p409
+S'0098502'
+p410
+sS'Wish Upon a Star (1996)'
+p411
+S'0118178'
+p412
+sS'Shaft (2000)'
+p413
+S'0162650'
+p414
+sS'Blue Hawaii (1961)'
+p415
+S'0054692'
+p416
+sS'All the Vermeers in New York (1990)'
+p417
+S'0099014'
+p418
+sS'Blazing Saddles (1974)'
+p419
+S'0071230'
+p420
+sS'Get Carter (1971)'
+p421
+S'0067128'
+p422
+sS'September (1987)'
+p423
+S'0093940'
+p424
+sS'Rape Me (Baise-moi) (2000)'
+p425
+S'0249380'
+p426
+sS'Patriot, The (2000)'
+p427
+S'0187393'
+p428
+sS'Casual Sex? (1988)'
+p429
+S'0094846'
+p430
+sS'Paint Your Wagon (1969)'
+p431
+S'0064782'
+p432
+sS"Don't Tell Mom the Babysitter's Dead (1991)"
+p433
+S'0101757'
+p434
+sS'Life as a House (2001)'
+p435
+S'0264796'
+p436
+sS'Red Dawn (1984)'
+p437
+S'0087985'
+p438
+sS'Big Picture, The (1989)'
+p439
+S'2106687'
+p440
+sS'Private Eyes, The (1981)'
+p441
+S'2266461'
+p442
+sS'Possession (1981)'
+p443
+S'0082933'
+p444
+sS'Million Dollar Hotel, The (2001)'
+p445
+S'0120753'
+p446
+sS'Eureka (Yur\xc3\xaeka) (2000)'
+p447
+S'0243889'
+p448
+sS'X: The Man with the X-Ray Eyes (1963)'
+p449
+S'0057693'
+p450
+sS'Pearl Harbor (2001)'
+p451
+S'0213149'
+p452
+sS'Pledge, The (2001)'
+p453
+S'0237572'
+p454
+sS'Beverly Hills Cop II (1987)'
+p455
+S'0092644'
+p456
+sS'Soapdish (1991)'
+p457
+S'0102951'
+p458
+sS'Critters 2: The Main Course (1988)'
+p459
+S'0094919'
+p460
+sS"Mackenna's Gold (1969)"
+p461
+S'0064615'
+p462
+sS'Hedwig and the Angry Inch (2000)'
+p463
+S'0248845'
+p464
+sS'Making Mr. Right (1987)'
+p465
+S'0093477'
+p466
+sS'Sea of Love (1989)'
+p467
+S'0098273'
+p468
+sS'Chicken Run (2000)'
+p469
+S'0120630'
+p470
+sS'Stunt Man, The (1980)'
+p471
+S'0081568'
+p472
+sS'Running on Empty (1988)'
+p473
+S'0096018'
+p474
+sS'Camille Claudel (1988)'
+p475
+S'0094828'
+p476
+sS'Taste of Others, The (Le go\xc3\xbbt des autres) (2000)'
+p477
+S'0216787'
+p478
+sS'Better Living Through Circuitry (1999)'
+p479
+S'0207998'
+p480
+sS'Max Dugan Returns (1983)'
+p481
+S'0085919'
+p482
+sS'Freddy Got Fingered (2001)'
+p483
+S'0240515'
+p484
+sS'Little Dieter Needs to Fly (1997)'
+p485
+S'0145046'
+p486
+sS'Snow Dogs (2002)'
+p487
+S'0281373'
+p488
+sS'Bamba, La (1987)'
+p489
+S'0093378'
+p490
+sS'Fall of the House of Usher, The (House of Usher) (1960)'
+p491
+S'0018770'
+p492
+sS'Triumph of the Will (Triumph des Willens) (1934)'
+p493
+S'0025913'
+p494
+sS'Closet, The (Placard, Le) (2001)'
+p495
+S'0243493'
+p496
+sS'Summer Rental (1985)'
+p497
+S'0090098'
+p498
+sS'Love Is a Many-Splendored Thing (1955)'
+p499
+S'0048316'
+p500
+sS'O Brother, Where Art Thou? (2000)'
+p501
+S'0190590'
+p502
+sS'Annie (1982)'
+p503
+S'0083564'
+p504
+sS'Final Destination (2000)'
+p505
+S'0195714'
+p506
+sS'Kill Me Later (2001)'
+p507
+S'0243595'
+p508
+sS'Romeo and Juliet (1968)'
+p509
+S'0063518'
+p510
+sS'Captain Horatio Hornblower (1951)'
+p511
+S'0043379'
+p512
+sS'Titanic (1953)'
+p513
+S'0046435'
+p514
+sS'Sinbad and the Eye of the Tiger (1977)'
+p515
+S'0076716'
+p516
+sS'Little Nikita (1988)'
+p517
+S'0095532'
+p518
+sS'Made (2001)'
+p519
+S'0227005'
+p520
+sS'Cotton Club, The (1984)'
+p521
+S'0087089'
+p522
+sS'Young Lions, The (1958)'
+p523
+S'0422899'
+p524
+sS'Serendipity (2001)'
+p525
+S'0240890'
+p526
+sS'For a Few Dollars More (Per qualche dollaro in pi\xc3\xb9) (1965)'
+p527
+S'0059578'
+p528
+sS'Hatari! (1962)'
+p529
+S'0056059'
+p530
+sS'Bedazzled (2000)'
+p531
+S'0230030'
+p532
+sS"Morgan Stewart's Coming Home (1987)"
+p533
+S'0093567'
+p534
+sS'Great Locomotive Chase, The (1956)'
+p535
+S'0049279'
+p536
+sS'Greenfingers (2000)'
+p537
+S'0203540'
+p538
+sS'Hardball (2001)'
+p539
+S'0180734'
+p540
+sS'Last Metro, The (Dernier m\xc3\xa9tro, Le) (1980)'
+p541
+S'0080610'
+p542
+sS'Dancer in the Dark (2000)'
+p543
+S'0168629'
+p544
+sS"Those Who Love Me Can Take the Train (Ceux qui m'aiment prendront le train) (1998)"
+p545
+S'0118834'
+p546
+sS'Close Encounters of the Third Kind (1977)'
+p547
+S'0075860'
+p548
+sS'Creature Comforts (1989)'
+p549
+S'0099317'
+p550
+sS'Rugrats in Paris: The Movie (2000)'
+p551
+S'0213203'
+p552
+sS'Woman on Top (2000)'
+p553
+S'0206420'
+p554
+sS'Saving Silverman (Evil Woman) (2001)'
+p555
+S'0239948'
+p556
+sS'Lumumba (2000)'
+p557
+S'0246765'
+p558
+sS'Lone Wolf McQuade (1983)'
+p559
+S'0085862'
+p560
+sS'Screwed (2000)'
+p561
+S'0156323'
+p562
+sS'Evil Dead, The (1981)'
+p563
+S'4526806'
+p564
+sS'Chocolat (1988)'
+p565
+S'0094868'
+p566
+sS'Young Einstein (1988)'
+p567
+S'0096486'
+p568
+sS'Colors (1988)'
+p569
+S'0094894'
+p570
+sS'Dead Bang (1989)'
+p571
+S'0097166'
+p572
+sS'Faust (1926)'
+p573
+S'0016847'
+p574
+sS'Devil Rides Out, The (1968)'
+p575
+S'0062885'
+p576
+sS'Gardens of Stone (1987)'
+p577
+S'0093073'
+p578
+sS'Made in Heaven (1987)'
+p579
+S'0093467'
+p580
+sS'Diner (1982)'
+p581
+S'0083833'
+p582
+sS'Awakening, The (1980)'
+p583
+S'6294892'
+p584
+sS'Born in East L.A. (1987)'
+p585
+S'0092690'
+p586
+sS'Devil Girl From Mars (1954)'
+p587
+S'0046907'
+p588
+sS'Dreamscape (1984)'
+p589
+S'0087175'
+p590
+sS'Woman of Paris, A (1923)'
+p591
+S'0014624'
+p592
+sS'Dry White Season, A (1989)'
+p593
+S'0097243'
+p594
+sS'Manhunter (1986)'
+p595
+S'0091474'
+p596
+sS'Coming Home (1978)'
+p597
+S'0077362'
+p598
+sS'Blind Fury (1989)'
+p599
+S'0096945'
+p600
+sS'Get Over It (2001)'
+p601
+S'0192071'
+p602
+sS'Kill Me Again (1989)'
+p603
+S'0097662'
+p604
+sS'Cage aux Folles II, La (1980)'
+p605
+S'0080489'
+p606
+sS'Hellraiser (1987)'
+p607
+S'0093177'
+p608
+sS'Sugar & Spice (2001)'
+p609
+S'0186589'
+p610
+sS'Spiral Staircase, The (1946)'
+p611
+S'0038975'
+p612
+sS"Max Keeble's Big Move (2001)"
+p613
+S'0273799'
+p614
+sS"There's No Business Like Show Business (1954)"
+p615
+S'0047574'
+p616
+sS'Murder by Death (1976)'
+p617
+S'0074937'
+p618
+sS'Alfie (1966)'
+p619
+S'0060086'
+p620
+sS'Billy Jack (1971)'
+p621
+S'0066832'
+p622
+sS'Warlock: The Armageddon (1993)'
+p623
+S'0108517'
+p624
+sS'City Slickers (1991)'
+p625
+S'0101587'
+p626
+sS'Do the Right Thing (1989)'
+p627
+S'0097216'
+p628
+sS'Planet of the Apes (2001)'
+p629
+S'0133152'
+p630
+sS'Action Jackson (1988)'
+p631
+S'0094612'
+p632
+sS'Waking Up in Reno (2002)'
+p633
+S'0219400'
+p634
+sS'Barenaked in America (1999)'
+p635
+S'0211219'
+p636
+sS'Anchors Aweigh (1945)'
+p637
+S'0037514'
+p638
+sS'Seven Year Itch, The (1955)'
+p639
+S'0048605'
+p640
+sS'On the Line (2001)'
+p641
+S'0279286'
+p642
+sS'Night, The (Notte, La) (1960)'
+p643
+S'0052781'
+p644
+sS'Hunger, The (1983)'
+p645
+S'0085701'
+p646
+sS'Lost in America (1985)'
+p647
+S'0089504'
+p648
+sS"Ballad of Ramblin' Jack, The (2000)"
+p649
+S'0236008'
+p650
+sS'High Fidelity (2000)'
+p651
+S'0146882'
+p652
+sS'Bangkok Dangerous (2000)'
+p653
+S'0263101'
+p654
+sS'Knightriders (1981)'
+p655
+S'0082622'
+p656
+sS'Requiem for a Dream (2000)'
+p657
+S'0180093'
+p658
+sS'18 Again! (1988)'
+p659
+S'0094593'
+p660
+sS'True Grit (1969)'
+p661
+S'0065126'
+p662
+sS'Permanent Record (1988)'
+p663
+S'0095853'
+p664
+sS'Ladyhawke (1985)'
+p665
+S'0089457'
+p666
+sS'Maniac (1980)'
+p667
+S'0081114'
+p668
+sS'Center of the World, The (2001)'
+p669
+S'2293816'
+p670
+sS'Thirteen Days (2000)'
+p671
+S'0146309'
+p672
+sS'Jay and Silent Bob Strike Back (2001)'
+p673
+S'0261392'
+p674
+sS"Brain That Wouldn't Die, The (1962)"
+p675
+S'0052646'
+p676
+sS'Dead of Winter (1987)'
+p677
+S'0092842'
+p678
+sS'Holcroft Covenant, The (1985)'
+p679
+S'0089283'
+p680
+sS'Midway (1976)'
+p681
+S'0074899'
+p682
+sS"Say It Isn't So (2001)"
+p683
+S'0239949'
+p684
+sS'Paper Chase, The (1973)'
+p685
+S'0070509'
+p686
+sS'Jesus of Montreal (J\xc3\xa9sus de Montr\xc3\xa9al) (1989)'
+p687
+S'0097635'
+p688
+sS'Frankie and Johnny (1966)'
+p689
+S'0060429'
+p690
+sS'Giant Gila Monster, The (1959)'
+p691
+S'0052846'
+p692
+sS'Scandal (1989)'
+p693
+S'0098260'
+p694
+sS'Official Story, The (La historia oficial) (1985)'
+p695
+S'0089276'
+p696
+sS'Dr. Goldfoot and the Bikini Machine (1965)'
+p697
+S'0059124'
+p698
+sS'Battle Creek Brawl (Big Brawl, The) (1980)'
+p699
+S'0080436'
+p700
+sS'Legally Blonde (2001)'
+p701
+S'0250494'
+p702
+sS'Halls of Montezuma (1950)'
+p703
+S'0042539'
+p704
+sS'Kickboxer (1989)'
+p705
+S'0097659'
+p706
+sS'Phantasm IV: Oblivion (1998)'
+p707
+S'0138703'
+p708
+sS'Songcatcher (2000)'
+p709
+S'0210299'
+p710
+sS'Zorro, the Gay Blade (1981)'
+p711
+S'0083366'
+p712
+sS'Two Moon Junction (1988)'
+p713
+S'0096324'
+p714
+sS'King Is Alive, The (2000)'
+p715
+S'0208911'
+p716
+sS'Widow of St. Pierre, The (Veuve de Saint-Pierre, La) (2000)'
+p717
+S'0191636'
+p718
+sS'Crush, The (1993)'
+p719
+S'0106627'
+p720
+sS'Road Warrior, The (Mad Max 2) (1981)'
+p721
+S'0082694'
+p722
+sS'Princess and the Warrior, The (Krieger und die Kaiserin, Der) (2000)'
+p723
+S'0203632'
+p724
+sS'Leviathan (1989)'
+p725
+S'0097737'
+p726
+sS'Shop on Main Street, The (Obchod na korze) (1965)'
+p727
+S'0059527'
+p728
+sS'Charlotte Gray (2001)'
+p729
+S'0245046'
+p730
+sS'Witness for the Prosecution (1957)'
+p731
+S'0051201'
+p732
+sS'Fast and the Furious, The (2001)'
+p733
+S'0463985'
+p734
+sS'Titan A.E. (2000)'
+p735
+S'0120913'
+p736
+sS'D.O.A. (1980)'
+p737
+S'0082226'
+p738
+sS'Nutty Professor II: The Klumps (2000)'
+p739
+S'0144528'
+p740
+sS'Amazing Grace and Chuck (1987)'
+p741
+S'0092545'
+p742
+sS'Scenes from the Class Struggle in Beverly Hills (1989)'
+p743
+S'0098261'
+p744
+sS"Guess Who's Coming to Dinner (1967)"
+p745
+S'0061735'
+p746
+sS'Son of the Sheik, The (1926)'
+p747
+S'0017416'
+p748
+sS'Breathless (\xc3\x80 bout de souffle) (1960)'
+p749
+S'0053472'
+p750
+sS'Idolmaker, The (1980)'
+p751
+S'0080913'
+p752
+sS'Little Vampire, The (2000)'
+p753
+S'0192255'
+p754
+sS'Calle 54 (2000)'
+p755
+S'0260775'
+p756
+sS'Near Dark (1987)'
+p757
+S'0093605'
+p758
+sS'Art of War, The (2000)'
+p759
+S'0160009'
+p760
+sS'Phantasm III: Lord of the Dead (1994)'
+p761
+S'0110823'
+p762
+sS'Duets (2000)'
+p763
+S'0134630'
+p764
+sS"Fellini's Roma (Roma) (1972)"
+p765
+S'0069191'
+p766
+sS"Prizzi's Honor (1985)"
+p767
+S'0089841'
+p768
+sS'Mirror, The (Zerkalo) (1975)'
+p769
+S'0072443'
+p770
+sS'Farewell to the King (1989)'
+p771
+S'0097334'
+p772
+sS'Miss Congeniality (2000)'
+p773
+S'0212346'
+p774
+sS'Cecil B. DeMented (2000)'
+p775
+S'0173716'
+p776
+sS'January Man, The (1989)'
+p777
+S'0097613'
+p778
+sS'F/X (1986)'
+p779
+S'0089118'
+p780
+sS'Off Limits (1988)'
+p781
+S'0095774'
+p782
+sS'Left Behind: The Movie (2000)'
+p783
+S'0190524'
+p784
+sS'Session 9 (2001)'
+p785
+S'0261983'
+p786
+sS'American Virgin (2000)'
+p787
+S'1318044'
+p788
+sS'Navy Seals (1990)'
+p789
+S'0100232'
+p790
+sS'Warlock (1989)'
+p791
+S'0098622'
+p792
+sS'Dead Heat (1988)'
+p793
+S'0094961'
+p794
+sS'Tortilla Soup (2001)'
+p795
+S'0255653'
+p796
+sS'Cocktail (1988)'
+p797
+S'0094889'
+p798
+sS'Bright Lights, Big City (1988)'
+p799
+S'0094799'
+p800
+sS'Whatever It Takes (2000)'
+p801
+S'0202402'
+p802
+sS'Package, The (1989)'
+p803
+S'0098051'
+p804
+sS'Sahara (1943)'
+p805
+S'0036323'
+p806
+sS'Friendly Persuasion (1956)'
+p807
+S'0049233'
+p808
+sS'Empire of the Ants (1977)'
+p809
+S'0075989'
+p810
+sS'Hidden, The (1987)'
+p811
+S'0093185'
+p812
+sS'One False Move (1992)'
+p813
+S'0102592'
+p814
+sS'Of Mice and Men (1939)'
+p815
+S'0031742'
+p816
+sS'Angry Red Planet, The (1959)'
+p817
+S'4810366'
+p818
+sS'Marathon Man (1976)'
+p819
+S'0074860'
+p820
+sS'Creature from the Black Lagoon, The (1954)'
+p821
+S'0046876'
+p822
+sS'Ariel (1988)'
+p823
+S'0094675'
+p824
+sS'Network (1976)'
+p825
+S'0074958'
+p826
+sS"Who'll Stop the Rain (1978)"
+p827
+S'0078490'
+p828
+sS'Saving Grace (2000)'
+p829
+S'0195234'
+p830
+sS'Across 110th Street (1972)'
+p831
+S'0068168'
+p832
+sS'Blood Simple (1984)'
+p833
+S'0086979'
+p834
+sS'Shaft in Africa (1973)'
+p835
+S'0070679'
+p836
+sS'Saludos Amigos (1943)'
+p837
+S'0036326'
+p838
+sS'Our Song (2000)'
+p839
+S'0234407'
+p840
+sS'Another Woman (1988)'
+p841
+S'0094663'
+p842
+sS'Rancho Deluxe (1975)'
+p843
+S'0073605'
+p844
+sS'Freejack (1992)'
+p845
+S'0104299'
+p846
+sS'Family Man, The (2000)'
+p847
+S'0218967'
+p848
+sS'Guns of Navarone, The (1961)'
+p849
+S'2059300'
+p850
+sS'Love Story (1970)'
+p851
+S'0066011'
+p852
+sS'That Obscure Object of Desire (Cet obscur objet du d\xc3\xa9sir) (1977)'
+p853
+S'0075824'
+p854
+sS'Hamlet (2000)'
+p855
+S'0171359'
+p856
+sS'Badlands (1973)'
+p857
+S'0069762'
+p858
+sS'Spacehunter: Adventures in the Forbidden Zone (1983)'
+p859
+S'0086346'
+p860
+sS'Little Man Tate (1991)'
+p861
+S'0102316'
+p862
+sS'Cage aux Folles, La (1978)'
+p863
+S'0077288'
+p864
+sS"Twelve O'Clock High (1949)"
+p865
+S'0041996'
+p866
+sS'One-Eyed Jacks (1961)'
+p867
+S'0055257'
+p868
+sS'Broken Hearts Club, The (2000)'
+p869
+S'0222850'
+p870
+sS'Yentl (1983)'
+p871
+S'0086619'
+p872
+sS'Born on the Fourth of July (1989)'
+p873
+S'0096969'
+p874
+sS'Dragonslayer (1981)'
+p875
+S'0082288'
+p876
+sS'End of Violence, The (1997)'
+p877
+S'6173360'
+p878
+sS"Jacob's Ladder (1990)"
+p879
+S'0099871'
+p880
+sS'High Heels and Low Lifes (2001)'
+p881
+S'0253126'
+p882
+sS'About Adam (2000)'
+p883
+S'0199314'
+p884
+sS'Monster Squad, The (1987)'
+p885
+S'0093560'
+p886
+sS'C.H.U.D. (1984)'
+p887
+S'0087015'
+p888
+sS'Morons From Outer Space (1985)'
+p889
+S'0089622'
+p890
+sS"Amores Perros (Love's a Bitch) (2000)"
+p891
+S'0245712'
+p892
+sS'Sweet November (2001)'
+p893
+S'0230838'
+p894
+sS"Man Who Wasn't There, The (2001)"
+p895
+S'0243133'
+p896
+sS"What's Cooking? (2000)"
+p897
+S'0197096'
+p898
+sS'Committed (2000)'
+p899
+S'0144142'
+p900
+sS'Fourth Protocol, The (1987)'
+p901
+S'0093044'
+p902
+sS"At the Earth's Core (1976)"
+p903
+S'0074157'
+p904
+sS"Everybody's All-American (1988)"
+p905
+S'0095119'
+p906
+sS'Quadrophenia (1979)'
+p907
+S'0079766'
+p908
+sS'Missing in Action 2: The Beginning (1985)'
+p909
+S'0089604'
+p910
+sS'Dressed to Kill (1980)'
+p911
+S'0080661'
+p912
+sS'Claim, The (2000)'
+p913
+S'0218378'
+p914
+sS'Troop Beverly Hills (1989)'
+p915
+S'0098519'
+p916
+sS'Faithless (Trol\xc3\xb6sa) (2000)'
+p917
+S'0157122'
+p918
+sS'Rude Awakening (1989)'
+p919
+S'0098230'
+p920
+sS'Training Day (2001)'
+p921
+S'0139654'
+p922
+sS'Coffy (1973)'
+p923
+S'0069897'
+p924
+sS'Urban Legends: Final Cut (2000)'
+p925
+S'0192731'
+p926
+sS'See No Evil, Hear No Evil (1989)'
+p927
+S'0098282'
+p928
+sS"Bill & Ted's Bogus Journey (1991)"
+p929
+S'0101452'
+p930
+sS"I'm the One That I Want (2000)"
+p931
+S'4308740'
+p932
+sS'Hail Columbia! (1982)'
+p933
+S'0084043'
+p934
+sS'Phantasm II (1988)'
+p935
+S'0095863'
+p936
+sS'How to Get Ahead in Advertising (1989)'
+p937
+S'0097531'
+p938
+sS'Stepfather II (1989)'
+p939
+S'0098385'
+p940
+sS'Dad (1989)'
+p941
+S'0097142'
+p942
+sS'Tapeheads (1988)'
+p943
+S'0096223'
+p944
+sS'Defiant Ones, The (1958)'
+p945
+S'0051525'
+p946
+sS'Crow: Salvation, The (2000)'
+p947
+S'0132910'
+p948
+sS'Carnival of Souls (1962)'
+p949
+S'0055830'
+p950
+sS'Dead, The (1987)'
+p951
+S'0092991'
+p952
+sS'Days of Wine and Roses (1962)'
+p953
+S'0055895'
+p954
+sS'Revenge of the Nerds II: Nerds in Paradise (1987)'
+p955
+S'0093857'
+p956
+sS'American Pop (1981)'
+p957
+S'0082009'
+p958
+sS'Decline of Western Civilization Part II: The Metal Years, The (1988)'
+p959
+S'0094980'
+p960
+sS'Bubble Boy (2001)'
+p961
+S'0258470'
+p962
+sS'What Lies Beneath (2000)'
+p963
+S'0161081'
+p964
+sS'Forsaken, The (2001)'
+p965
+S'0245120'
+p966
+sS'Story of G.I. Joe, The (1945)'
+p967
+S'0038120'
+p968
+sS'Megiddo: The Omega Code 2 (2001)'
+p969
+S'0263728'
+p970
+sS'Killer Shrews, The (1959)'
+p971
+S'1467574'
+p972
+sS'Pola X (1999)'
+p973
+S'0152015'
+p974
+sS'C.H.U.D. II - Bud the Chud (1989)'
+p975
+S'0097001'
+p976
+sS'Liebestraum (1991)'
+p977
+S'0102299'
+p978
+sS'What Ever Happened to Baby Jane? (1962)'
+p979
+S'0056687'
+p980
+sS'See Spot Run (2001)'
+p981
+S'0250720'
+p982
+sS'Ready to Rumble (2000)'
+p983
+S'0217756'
+p984
+sS'Breathless (1983)'
+p985
+S'0085276'
+p986
+sS'Dish, The (2001)'
+p987
+S'0309514'
+p988
+sS'Almost Famous (2000)'
+p989
+S'0181875'
+p990
+sS'Lilies of the Field (1963)'
+p991
+S'0057251'
+p992
+sS'Rocketship X-M (1950)'
+p993
+S'0042897'
+p994
+sS'Mad Max Beyond Thunderdome (1985)'
+p995
+S'0089530'
+p996
+sS'Gleaners & I, The (Les glaneurs et la glaneuse) (2000)'
+p997
+S'0247380'
+p998
+sS'Trouble in Paradise (1932)'
+p999
+S'0023622'
+p1000
+sS'Cleopatra (1963)'
+p1001
+S'0056937'
+p1002
+sS'Slumber Party Massacre II (1987)'
+p1003
+S'0093996'
+p1004
+sS'Mississippi Burning (1988)'
+p1005
+S'0095647'
+p1006
+sS'Big Red One, The (1980)'
+p1007
+S'1840406'
+p1008
+sS'Leonard Part 6 (1987)'
+p1009
+S'0093405'
+p1010
+sS'Groove (2000)'
+p1011
+S'0212974'
+p1012
+sS'Running Man, The (1987)'
+p1013
+S'3382034'
+p1014
+sS'Crazy/Beautiful (2001)'
+p1015
+S'0250224'
+p1016
+sS'Keeping the Faith (2000)'
+p1017
+S'0171433'
+p1018
+sS'Sheena (1984)'
+p1019
+S'0088103'
+p1020
+sS'Living Daylights, The (1987)'
+p1021
+S'0093428'
+p1022
+sS'Human Traffic (1999)'
+p1023
+S'0188674'
+p1024
+sS'Save the Last Dance (2001)'
+p1025
+S'0206275'
+p1026
+sS'Gold Rush, The (1925)'
+p1027
+S'0015864'
+p1028
+sS'Flowers in the Attic (1987)'
+p1029
+S'0093036'
+p1030
+sS'Atlantis: The Lost Empire (2001)'
+p1031
+S'0230011'
+p1032
+sS'American Gigolo (1980)'
+p1033
+S'0080365'
+p1034
+sS'American Rhapsody, An (2001)'
+p1035
+S'0221799'
+p1036
+sS'Foxy Brown (1974)'
+p1037
+S'0071517'
+p1038
+sS'Shower (Xizao) (1999)'
+p1039
+S'0215369'
+p1040
+sS'Michael Jordan to the Max (2000)'
+p1041
+S'0245280'
+p1042
+sS'Blankman (1994)'
+p1043
+S'0109288'
+p1044
+sS'Hustler, The (1961)'
+p1045
+S'0054997'
+p1046
+sS'Man Who Shot Liberty Valance, The (1962)'
+p1047
+S'0056217'
+p1048
+sS'Tuff Turf (1985)'
+p1049
+S'0090213'
+p1050
+sS'Crime and Punishment in Suburbia (2000)'
+p1051
+S'0197384'
+p1052
+sS'What About Bob? (1991)'
+p1053
+S'0103241'
+p1054
+sS'Come Undone (Presque Rien) (2000)'
+p1055
+S'0242795'
+p1056
+sS'Shocker (1989)'
+p1057
+S'0098320'
+p1058
+sS'Madame Sousatzka (1988)'
+p1059
+S'0095564'
+p1060
+sS'Missing in Action (1984)'
+p1061
+S'0087727'
+p1062
+sS'Black Hawk Down (2001)'
+p1063
+S'0265086'
+p1064
+sS'Milagro Beanfield War (1988)'
+p1065
+S'0095638'
+p1066
+sS'Eddie Murphy Raw (1987)'
+p1067
+S'0092948'
+p1068
+sS'Jurassic Park III (2001)'
+p1069
+S'0163025'
+p1070
+sS'Joy Ride (2001)'
+p1071
+S'0206314'
+p1072
+sS'Asylum (1972)'
+p1073
+S'0068230'
+p1074
+sS'Glitter (2001)'
+p1075
+S'0118589'
+p1076
+sS'American Ninja 2: The Confrontation (1987)'
+p1077
+S'0092548'
+p1078
+sS"Clara's Heart (1988)"
+p1079
+S'0094882'
+p1080
+sS'Ishtar (1987)'
+p1081
+S'0093278'
+p1082
+sS'Baby Boom (1987)'
+p1083
+S'0092605'
+p1084
+sS'Bird on a Wire (1990)'
+p1085
+S'0099141'
+p1086
+sS'Texas Rangers (2001)'
+p1087
+S'0193560'
+p1088
+sS'Man with the Golden Gun, The (1974)'
+p1089
+S'0071807'
+p1090
+sS'Something Wild (1986)'
+p1091
+S'0091983'
+p1092
+sS'Always (1989)'
+p1093
+S'0096794'
+p1094
+sS'Vagabond (Sans toit ni loi) (1985)'
+p1095
+S'0089960'
+p1096
+sS'Animal, The (2001)'
+p1097
+S'0255798'
+p1098
+sS'Ghost World (2001)'
+p1099
+S'0162346'
+p1100
+sS'Operation Petticoat (1959)'
+p1101
+S'0053143'
+p1102
+sS'Our Lady of the Assassins (Virgen de los sicarios, La) (2000)'
+p1103
+S'0250809'
+p1104
+sS'Place in the Sun, A (1951)'
+p1105
+S'0043924'
+p1106
+sS'Reversal of Fortune (1990)'
+p1107
+S'0100486'
+p1108
+sS'G. I. Blues (1960)'
+p1109
+S'1072042'
+p1110
+sS'Solas (1999)'
+p1111
+S'0190798'
+p1112
+sS'Kiss Me Deadly (1955)'
+p1113
+S'0048261'
+p1114
+sS'Just Looking (1999)'
+p1115
+S'0162236'
+p1116
+sS'SpaceCamp (1986)'
+p1117
+S'0091993'
+p1118
+sS'Evolution (2001)'
+p1119
+S'0251075'
+p1120
+sS'Ace in the Hole (Big Carnival, The) (1951)'
+p1121
+S'0043338'
+p1122
+sS'Bird (1988)'
+p1123
+S'0094747'
+p1124
+sS'Under Suspicion (2000)'
+p1125
+S'0164212'
+p1126
+sS'Mission: Impossible II (2000)'
+p1127
+S'0120755'
+p1128
+sS"Amelie (Fabuleux destin d'Am\xc3\xa9lie Poulain, Le) (2001)"
+p1129
+S'0211915'
+p1130
+sS'Blob, The (1988)'
+p1131
+S'0094761'
+p1132
+sS'Swordfish (2001)'
+p1133
+S'0244244'
+p1134
+sS'Animal House (1978)'
+p1135
+S'0077975'
+p1136
+sS'Africa: The Serengeti (1994)'
+p1137
+S'0109049'
+p1138
+sS'Eyes of Tammy Faye, The (2000)'
+p1139
+S'0233687'
+p1140
+sS'Donnie Darko (2001)'
+p1141
+S'0246578'
+p1142
+sS'Gladiator (2000)'
+p1143
+S'0172495'
+p1144
+sS'Clambake (1967)'
+p1145
+S'0061489'
+p1146
+sS'Storytelling (2001)'
+p1147
+S'0250081'
+p1148
+sS'Abominable Dr. Phibes, The (1971)'
+p1149
+S'0066740'
+p1150
+sS'North Shore (1987)'
+p1151
+S'0093648'
+p1152
+sS'Cruising (1980)'
+p1153
+S'0080569'
+p1154
+sS'Criminal Law (1988)'
+p1155
+S'0097125'
+p1156
+sS'Night to Remember, A (1958)'
+p1157
+S'0051994'
+p1158
+sS'Deepstar Six (1989)'
+p1159
+S'0097179'
+p1160
+sS'China Moon (1994)'
+p1161
+S'0109417'
+p1162
+sS'Metropolis (2001)'
+p1163
+S'0293416'
+p1164
+sS'Jerry and Tom (1998)'
+p1165
+S'0120867'
+p1166
+sS'No Way Out (1987)'
+p1167
+S'0093640'
+p1168
+sS'Breakheart Pass (1975)'
+p1169
+S'0072735'
+p1170
+sS'Jeepers Creepers (2001)'
+p1171
+S'0263488'
+p1172
+sS'Baby Boy (2001)'
+p1173
+S'0255819'
+p1174
+sS'Anatomy of a Murder (1959)'
+p1175
+S'0052561'
+p1176
+sS'Happy Accidents (2000)'
+p1177
+S'0208196'
+p1178
+sS'Odd Couple, The (1968)'
+p1179
+S'0107725'
+p1180
+sS'Battle Beyond the Stars (1980)'
+p1181
+S'0080421'
+p1182
+sS'Home of Our Own, A (1993)'
+p1183
+S'0107130'
+p1184
+sS'Shoot to Kill (1988)'
+p1185
+S'0039820'
+p1186
+sS'Short Circuit (1986)'
+p1187
+S'0091949'
+p1188
+sS'Tango & Cash (1989)'
+p1189
+S'0098439'
+p1190
+sS'Thomas and the Magic Railroad (2000)'
+p1191
+S'0205461'
+p1192
+sS'Silent Rage (1982)'
+p1193
+S'0084684'
+p1194
+sS'Business of Strangers, The (2001)'
+p1195
+S'0270259'
+p1196
+sS'Rush Hour 2 (2001)'
+p1197
+S'0266915'
+p1198
+sS'Born American (1986)'
+p1199
+S'0091313'
+p1200
+sS'Perfect Storm, The (2000)'
+p1201
+S'0177971'
+p1202
+sS'Parents (1989)'
+p1203
+S'0098068'
+p1204
+sS'Mad Max (1979)'
+p1205
+S'0079501'
+p1206
+sS'Lock Up (1989)'
+p1207
+S'0097770'
+p1208
+sS"That's Life! (1986)"
+p1209
+S'0092079'
+p1210
+sS'Adventures of Rocky and Bullwinkle, The (2000)'
+p1211
+S'4552578'
+p1212
+sS'Seconds (1966)'
+p1213
+S'0060955'
+p1214
+sS"Class of Nuke 'Em High (1986)"
+p1215
+S'0090849'
+p1216
+sS'Bank Dick, The (1940)'
+p1217
+S'0032234'
+p1218
+sS"Everybody's Famous! (Iedereen beroemd!) (2000)"
+p1219
+S'0209037'
+p1220
+sS'Lantana (2001)'
+p1221
+S'0259393'
+p1222
+sS'Altered States (1980)'
+p1223
+S'0080360'
+p1224
+sS'Ernest Saves Christmas (1988)'
+p1225
+S'0095107'
+p1226
+sS'Shag (1989)'
+p1227
+S'0098300'
+p1228
+sS'Sordid Lives (2000)'
+p1229
+S'0204640'
+p1230
+sS'Dinosaur (2000)'
+p1231
+S'0130623'
+p1232
+sS'Sorority House Massacre II (1990)'
+p1233
+S'0100663'
+p1234
+sS'And Then There Were None (1945)'
+p1235
+S'0037515'
+p1236
+sS'Mission to Mir (1997)'
+p1237
+S'0119682'
+p1238
+sS'Dersu Uzala (1975)'
+p1239
+S'0071411'
+p1240
+sS"Bishop's Wife, The (1947)"
+p1241
+S'0039190'
+p1242
+sS'Autumn in New York (2000)'
+p1243
+S'0174480'
+p1244
+sS'Wedding Planner, The (2001)'
+p1245
+S'0209475'
+p1246
+sS'Bounty, The (1984)'
+p1247
+S'0086993'
+p1248
+sS'Candy (1968)'
+p1249
+S'0062776'
+p1250
+sS'Best of the Best (1989)'
+p1251
+S'0096913'
+p1252
+sS'Howling IV: The Original Nightmare (1988)'
+p1253
+S'0095334'
+p1254
+sS'Moscow on the Hudson (1984)'
+p1255
+S'0087747'
+p1256
+sS'Cry Freedom (1987)'
+p1257
+S'0092804'
+p1258
+sS'Shadow Magic (2000)'
+p1259
+S'0238588'
+p1260
+sS'Boys and Girls (2000)'
+p1261
+S'0204175'
+p1262
+sS'Jennifer 8 (1992)'
+p1263
+S'0104549'
+p1264
+sS"On Her Majesty's Secret Service (1969)"
+p1265
+S'0064757'
+p1266
+sS'Slaves of New York (1989)'
+p1267
+S'0098347'
+p1268
+sS'How to Stuff a Wild Bikini (1965)'
+p1269
+S'0059287'
+p1270
+sS'Slumber Party Massacre III (1990)'
+p1271
+S'0100639'
+p1272
+sS"Mo' Better Blues (1990)"
+p1273
+S'0100168'
+p1274
+sS'Yi Yi (2000)'
+p1275
+S'0244316'
+p1276
+sS'Good Morning, Vietnam (1987)'
+p1277
+S'0093105'
+p1278
+sS'Love and Death (1975)'
+p1279
+S'0073312'
+p1280
+sS'Champ, The (1979)'
+p1281
+S'0756680'
+p1282
+sS'In the Bedroom (2001)'
+p1283
+S'0247425'
+p1284
+sS'Mulholland Drive (2001)'
+p1285
+S'0490667'
+p1286
+sS'Imaginary Crimes (1994)'
+p1287
+S'0110115'
+p1288
+sS'Good Mother, The (1988)'
+p1289
+S'0095238'
+p1290
+sS'Long Walk Home, The (1990)'
+p1291
+S'0100046'
+p1292
+sS'Quatermass and the Pit (1967)'
+p1293
+S'0051305'
+p1294
+sS'Thomas in Love (Thomas est Amoureux) (2000)'
+p1295
+S'0262826'
+p1296
+sS'Lakeboat (2000)'
+p1297
+S'0210149'
+p1298
+sS'Lost World, The (1925)'
+p1299
+S'4760282'
+p1300
+sS'Hud (1963)'
+p1301
+S'0057163'
+p1302
+sS'Before Night Falls (2000)'
+p1303
+S'0247196'
+p1304
+sS'Lost Boys, The (1987)'
+p1305
+S'0093437'
+p1306
+sS'Meet the Feebles (1989)'
+p1307
+S'0097858'
+p1308
+sS'Invisible Circus, The (2001)'
+p1309
+S'0178642'
+p1310
+sS'Morgan: A Suitable Case for Treatment (1966)'
+p1311
+S'0060714'
+p1312
+sS'Ernest Goes to Camp (1987)'
+p1313
+S'0092974'
+p1314
+sS'Cheap Detective, The (1978)'
+p1315
+S'0077321'
+p1316
+sS'Subway (1985)'
+p1317
+S'0090095'
+p1318
+sS'Double Impact (1991)'
+p1319
+S'0101764'
+p1320
+sS'Adventures of Huck Finn, The (1993)'
+p1321
+S'0106223'
+p1322
+sS'Puppet Master (1989)'
+p1323
+S'0098143'
+p1324
+sS'Down From the Mountain (2000)'
+p1325
+S'0284067'
+p1326
+sS'Fist of Fury (Chinese Connection, The) (Jing wu men) (1972)'
+p1327
+S'0068767'
+p1328
+sS'Shane (1953)'
+p1329
+S'0046303'
+p1330
+sS'Innocent Man, An (1989)'
+p1331
+S'0097579'
+p1332
+sS'Two Family House (2000)'
+p1333
+S'0202641'
+p1334
+sS'Unmade Beds (1997)'
+p1335
+S'0127952'
+p1336
+sS'Ironweed (1987)'
+p1337
+S'0093277'
+p1338
+sS'Tucker: The Man and His Dream (1988)'
+p1339
+S'0096316'
+p1340
+sS'Outlaw Josey Wales, The (1976)'
+p1341
+S'0075029'
+p1342
+sS'Battlefield Earth (2000)'
+p1343
+S'0185183'
+p1344
+sS'Five Corners (1987)'
+p1345
+S'0093029'
+p1346
+sS'Final Fantasy: The Spirits Within (2001)'
+p1347
+S'0173840'
+p1348
+sS'3 Ninjas (1992)'
+p1349
+S'0103596'
+p1350
+sS'Teenage Mutant Ninja Turtles III (1993)'
+p1351
+S'0108308'
+p1352
+sS'Coyote Ugly (2000)'
+p1353
+S'0200550'
+p1354
+sS'Ice Castles (1978)'
+p1355
+S'0077716'
+p1356
+sS'Lara Croft: Tomb Raider (2001)'
+p1357
+S'0146316'
+p1358
+sS'Waterdance, The (1992)'
+p1359
+S'0105789'
+p1360
+sS'Easy Money (1983)'
+p1361
+S'0085470'
+p1362
+sS'Mannequin (1987)'
+p1363
+S'0093493'
+p1364
+sS'Beach Party (1963)'
+p1365
+S'0056860'
+p1366
+sS'Hideous Sun Demon, The (1959)'
+p1367
+S'0052888'
+p1368
+sS'Nekromantik (1987)'
+p1369
+S'0093608'
+p1370
+sS'City of Women, The (Citt\xc3\xa0 delle donne, La) (1980)'
+p1371
+S'0080539'
+p1372
+sS'Mermaids (1990)'
+p1373
+S'0100140'
+p1374
+sS'Dungeons & Dragons (2000)'
+p1375
+S'0190374'
+p1376
+sS'Traffic (2000)'
+p1377
+S'0181865'
+p1378
+sS'For Keeps (1988)'
+p1379
+S'0095169'
+p1380
+sS'Haiku Tunnel (2001)'
+p1381
+S'0273253'
+p1382
+sS"Cheech & Chong's Nice Dreams (1981)"
+p1383
+S'3440546'
+p1384
+sS'Any Which Way You Can (1980)'
+p1385
+S'0080377'
+p1386
+sS'Spy Kids (2001)'
+p1387
+S'0227538'
+p1388
+sS'Brothers, The (2001)'
+p1389
+S'0185906'
+p1390
+sS'American Psycho (2000)'
+p1391
+S'0144084'
+p1392
+sS'Waxwork (1988)'
+p1393
+S'0096426'
+p1394
+sS'Popcorn (1991)'
+p1395
+S'0102690'
+p1396
+sS'Get Carter (2000)'
+p1397
+S'0208988'
+p1398
+sS'Midnight Madness (1980)'
+p1399
+S'0081159'
+p1400
+sS'Death Wish 3 (1985)'
+p1401
+S'0089003'
+p1402
+sS'Big Deal on Madonna Street (I Soliti Ignoti) (1958)'
+p1403
+S'0052216'
+p1404
+sS'Beautiful (2000)'
+p1405
+S'0210567'
+p1406
+sS'Tao of Steve, The (2000)'
+p1407
+S'0234853'
+p1408
+sS'Not Another Teen Movie (2001)'
+p1409
+S'0277371'
+p1410
+sS'Dr. T and the Women (2000)'
+p1411
+S'0486857'
+p1412
+sS'Ali (2001)'
+p1413
+S'0248667'
+p1414
+sS"Pee-wee's Big Adventure (1985)"
+p1415
+S'0089791'
+p1416
+sS'Frankie and Johnny (1991)'
+p1417
+S'0101912'
+p1418
+sS'Man with the Golden Arm, The (1955)'
+p1419
+S'0048347'
+p1420
+sS"Brewster's Millions (1985)"
+p1421
+S'0088850'
+p1422
+sS'Couch Trip, The (1988)'
+p1423
+S'0094910'
+p1424
+sS'Blow-Up (Blowup) (1966)'
+p1425
+S'0060176'
+p1426
+sS'Rated X (2000)'
+p1427
+S'0201776'
+p1428
+sS'Dracula 2000 (2000)'
+p1429
+S'0219653'
+p1430
+sS'Old Gringo (1989)'
+p1431
+S'0098022'
+p1432
+sS'Black Knight (2001)'
+p1433
+S'0265087'
+p1434
+sS'O (2001)'
+p1435
+S'0184791'
+p1436
+sS'Hunter, The (1980)'
+p1437
+S'0080907'
+p1438
+sS'Game of Death (1978)'
+p1439
+S'0077594'
+p1440
+sS'Bread and Tulips (Pane e tulipani) (2000)'
+p1441
+S'0237539'
+p1442
+sS'Best in Show (2000)'
+p1443
+S'0218839'
+p1444
+sS'Air America (1990)'
+p1445
+S'0099005'
+p1446
+sS'Runaway (1984)'
+p1447
+S'0088024'
+p1448
+sS"Porky's (1982)"
+p1449
+S'2854448'
+p1450
+sS'Experts, The (1989)'
+p1451
+S'0097314'
+p1452
+sS'Death Wish 2 (1982)'
+p1453
+S'0082250'
+p1454
+sS'Cop (1988)'
+p1455
+S'0092783'
+p1456
+sS"Coogan's Bluff (1968)"
+p1457
+S'0062824'
+p1458
+sS'Accused, The (1988)'
+p1459
+S'0094608'
+p1460
+sS'Quatermass 2 (Enemy from Space) (1957)'
+p1461
+S'0050873'
+p1462
+sS'4 for Texas (1963)'
+p1463
+S'0057071'
+p1464
+sS'Me, Myself & Irene (2000)'
+p1465
+S'0183505'
+p1466
+sS'Basket Case (1982)'
+p1467
+S'0083624'
+p1468
+sS'Up at the Villa (2000)'
+p1469
+S'0153464'
+p1470
+sS'House of Games (1987)'
+p1471
+S'0093223'
+p1472
+sS'Osmosis Jones (2001)'
+p1473
+S'0181739'
+p1474
+sS'Circus (2000)'
+p1475
+S'0191037'
+p1476
+sS'Eddie and the Cruisers II: Eddie Lives! (1989)'
+p1477
+S'0097262'
+p1478
+sS'Detour (1945)'
+p1479
+S'0037638'
+p1480
+sS'I Am Sam (2001)'
+p1481
+S'0277027'
+p1482
+sS'Affair of the Necklace, The (2001)'
+p1483
+S'0242252'
+p1484
+sS"Monster's Ball (2001)"
+p1485
+S'0285742'
+p1486
+sS'Heartbreak Hotel (1988)'
+p1487
+S'0095288'
+p1488
+sS'Wash, The (2001)'
+p1489
+S'0290332'
+p1490
+sS'Truly, Madly, Deeply (1991)'
+p1491
+S'0103129'
+p1492
+sS'Breaker Morant (1980)'
+p1493
+S'0080310'
+p1494
+sS'Written on the Wind (1956)'
+p1495
+S'0049966'
+p1496
+sS'Fun and Fancy Free (1947)'
+p1497
+S'5289568'
+p1498
+sS'North Dallas Forty (1979)'
+p1499
+S'0079640'
+p1500
+sS'Lost and Delirious (2001)'
+p1501
+S'0245238'
+p1502
+sS'Couch in New York, A (1996)'
+p1503
+S'0118018'
+p1504
+sS'Dream Team, The (1989)'
+p1505
+S'0097235'
+p1506
+sS'Best of the Best 2 (1993)'
+p1507
+S'2214591'
+p1508
+sS'Legend of Hell House, The (1973)'
+p1509
+S'0070294'
+p1510
+sS'Town & Country (2001)'
+p1511
+S'0141907'
+p1512
+sS'Enemies: A Love Story (1989)'
+p1513
+S'0097276'
+p1514
+sS'Final Countdown, The (1980)'
+p1515
+S'1194118'
+p1516
+sS'House on Carroll Street, The (1988)'
+p1517
+S'0095333'
+p1518
+sS'El Dorado (1966)'
+p1519
+S'4432098'
+p1520
+sS'Mummy Returns, The (2001)'
+p1521
+S'0209163'
+p1522
+sS'American Ninja 3: Blood Hunt (1989)'
+p1523
+S'0096804'
+p1524
+sS'Fame (1980)'
+p1525
+S'0080716'
+p1526
+sS'Alice (1990)'
+p1527
+S'0099012'
+p1528
+sS'Force 10 from Navarone (1978)'
+p1529
+S'0077572'
+p1530
+sS'Elvira, Mistress of the Dark (1988)'
+p1531
+S'0095088'
+p1532
+sS'Owl and the Pussycat, The (1970)'
+p1533
+S'0066195'
+p1534
+sS'Time Masters (Ma\xc3\xaetres du temps, Les) (1982)'
+p1535
+S'0084315'
+p1536
+sS'And God Created Woman (Et Dieu... cr\xc3\xa9a la femme) (1956)'
+p1537
+S'0049189'
+p1538
+sS'Supergirl (1984)'
+p1539
+S'0088206'
+p1540
+sS'Billy Jack Goes to Washington (1977)'
+p1541
+S'0075754'
+p1542
+sS'Band of the Hand (1986)'
+p1543
+S'0090693'
+p1544
+sS'Planes, Trains & Automobiles (1987)'
+p1545
+S'0093748'
+p1546
+sS'Black Sabbath (Tre volti della paura, I) (1963)'
+p1547
+S'0057603'
+p1548
+sS'Rules of Engagement (2000)'
+p1549
+S'0160797'
+p1550
+sS'Watcher, The (2000)'
+p1551
+S'0204626'
+p1552
+sS'Road Trip (2000)'
+p1553
+S'0215129'
+p1554
+sS'Postman Always Rings Twice, The (1981)'
+p1555
+S'0082934'
+p1556
+sS'Together (Tillsammans) (2000)'
+p1557
+S'0203166'
+p1558
+sS'Long Gray Line, The (1955)'
+p1559
+S'0048312'
+p1560
+sS'Grateful Dawg (2000)'
+p1561
+S'0265212'
+p1562
+sS'Apache (1954)'
+p1563
+S'0046719'
+p1564
+sS'Summer Catch (2001)'
+p1565
+S'0234829'
+p1566
+sS"Cheech & Chong's Next Movie (1980)"
+p1567
+S'0080520'
+p1568
+sS'Catfish in Black Bean Sauce (2000)'
+p1569
+S'0162903'
+p1570
+sS'Auntie Mame (1958)'
+p1571
+S'0051383'
+p1572
+sS'Midnight Express (1978)'
+p1573
+S'0077928'
+p1574
+sS'Gothic (1986)'
+p1575
+S'0091142'
+p1576
+sS'Empire Records (1995)'
+p1577
+S'0112950'
+p1578
+sS'Let It Ride (1989)'
+p1579
+S'0097731'
+p1580
+sS'Red Heat (1988)'
+p1581
+S'0095963'
+p1582
+sS'Masters of the Universe (1987)'
+p1583
+S'0093507'
+p1584
+sS'Russia House, The (1990)'
+p1585
+S'0100530'
+p1586
+sS'Nowhere to Hide (Injeong sajeong bol geot eobtda) (1999)'
+p1587
+S'0223530'
+p1588
+sS'Misery (1990)'
+p1589
+S'0100157'
+p1590
+sS'Brother (2000)'
+p1591
+S'0222851'
+p1592
+sS'Love Potion #9 (1992)'
+p1593
+S'0978933'
+p1594
+sS'Necessary Roughness (1991)'
+p1595
+S'0102517'
+p1596
+sS'Tomcats (2001)'
+p1597
+S'0246989'
+p1598
+sS'Guys and Dolls (1955)'
+p1599
+S'0048140'
+p1600
+sS'Real Life (1979)'
+p1601
+S'0079781'
+p1602
+sS'Road House (1989)'
+p1603
+S'0098206'
+p1604
+sS'Dogs of War, The (1980)'
+p1605
+S'3440438'
+p1606
+sS'Pollock (2000)'
+p1607
+S'0183659'
+p1608
+sS'Unlawful Entry (1992)'
+p1609
+S'0105699'
+p1610
+sS'9 1/2 Weeks (Nine 1/2 Weeks) (1986)'
+p1611
+S'0091635'
+p1612
+sS'Puppet Master 4 (1993)'
+p1613
+S'0107899'
+p1614
+sS'Score, The (2001)'
+p1615
+S'0227445'
+p1616
+sS'Tigerland (2000)'
+p1617
+S'0170691'
+p1618
+sS'Feds (1988)'
+p1619
+S'0095145'
+p1620
+sS'Big Top Pee-Wee (1988)'
+p1621
+S'0094744'
+p1622
+sS'Demetrius and the Gladiators (1954)'
+p1623
+S'0046899'
+p1624
+sS'Wet Hot American Summer (2001)'
+p1625
+S'0243655'
+p1626
+sS'Retroactive (1997)'
+p1627
+S'0117468'
+p1628
+sS'Back to the Beach (1987)'
+p1629
+S'0092608'
+p1630
+sS'Regret to Inform (1998)'
+p1631
+S'0181786'
+p1632
+sS'Lucky Numbers (2000)'
+p1633
+S'0219952'
+p1634
+sS'Blaze (1989)'
+p1635
+S'0096943'
+p1636
+sS'Stranger Than Paradise (1984)'
+p1637
+S'0088184'
+p1638
+sS'Steel Magnolias (1989)'
+p1639
+S'0098384'
+p1640
+sS'No Holds Barred (1989)'
+p1641
+S'0097987'
+p1642
+sS'Taffin (1988)'
+p1643
+S'0096211'
+p1644
+sS'Pok\xc3\xa9mon the Movie 2000 (2000)'
+p1645
+S'0382918'
+p1646
+sS'Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)'
+p1647
+S'0103060'
+p1648
+sS'Sleepaway Camp (1983)'
+p1649
+S'0086320'
+p1650
+sS'Cries and Whispers (Viskningar och rop) (1972)'
+p1651
+S'0069467'
+p1652
+sS'Eye for an Eye, An (1981)'
+p1653
+S'0082398'
+p1654
+sS'Three Fugitives (1989)'
+p1655
+S'0098471'
+p1656
+sS'Thelma & Louise (1991)'
+p1657
+S'0103074'
+p1658
+sS'American Astronaut, The (2001)'
+p1659
+S'0243759'
+p1660
+sS"Son's Room, The (Stanza del figlio, La) (2001)"
+p1661
+S'0208990'
+p1662
+sS'Faraway, So Close (In weiter Ferne, so nah!) (1993)'
+p1663
+S'0107209'
+p1664
+sS'Bad Dreams (1988)'
+p1665
+S'0094701'
+p1666
+sS'House of Mirth, The (2000)'
+p1667
+S'0200720'
+p1668
+sS'6th Day, The (2000)'
+p1669
+S'0216216'
+p1670
+sS'Suddenly, Last Summer (1959)'
+p1671
+S'0053318'
+p1672
+sS'Kentuckian, The (1955)'
+p1673
+S'0048248'
+p1674
+sS'Brother from Another Planet, The (1984)'
+p1675
+S'0087004'
+p1676
+sS'Benji (1974)'
+p1677
+S'0071206'
+p1678
+sS'Best Seller (1987)'
+p1679
+S'0092641'
+p1680
+sS'Cyborg (1989)'
+p1681
+S'0097138'
+p1682
+sS'Revenge of the Nerds (1984)'
+p1683
+S'0088000'
+p1684
+sS'King Creole (1958)'
+p1685
+S'0051818'
+p1686
+sS'Teenage Mutant Ninja Turtles (1990)'
+p1687
+S'0100758'
+p1688
+sS'Ilsa, She Wolf of the SS (1974)'
+p1689
+S'0071650'
+p1690
+sS'Brubaker (1980)'
+p1691
+S'0080474'
+p1692
+sS'Beast, The (1988)'
+p1693
+S'0094716'
+p1694
+sS'Smiling Fish and Goat on Fire (1999)'
+p1695
+S'0162348'
+p1696
+sS'Death Wish 5: The Face of Death (1994)'
+p1697
+S'0109578'
+p1698
+sS'Transformers: The Movie (1986)'
+p1699
+S'0092106'
+p1700
+sS'Mystery Train (1989)'
+p1701
+S'0097940'
+p1702
+sS'Grass Is Greener, The (1960)'
+p1703
+S'0713021'
+p1704
+sS'Return of the Living Dead Part II (1988)'
+p1705
+S'2199681'
+p1706
+sS'K-PAX (2001)'
+p1707
+S'0272152'
+p1708
+sS"River's Edge (1986)"
+p1709
+S'0091860'
+p1710
+sS'How High (2001)'
+p1711
+S'0278488'
+p1712
+sS'Novocaine (2001)'
+p1713
+S'0234354'
+p1714
+sS'Phantom of the Opera (1943)'
+p1715
+S'0036261'
+p1716
+sS'Legend of Bagger Vance, The (2000)'
+p1717
+S'0146984'
+p1718
+sS'15 Minutes (2001)'
+p1719
+S'0179626'
+p1720
+sS'Divine Madness! (1980)'
+p1721
+S'0080634'
+p1722
+sS'Watchers (1988)'
+p1723
+S'0096425'
+p1724
+sS'Critters 3 (1991)'
+p1725
+S'0101627'
+p1726
+sS'Death on the Nile (1978)'
+p1727
+S'0077413'
+p1728
+sS"Joe Gould's Secret (2000)"
+p1729
+S'0172632'
+p1730
+sS'Tampopo (1985)'
+p1731
+S'0092048'
+p1732
+sS'Lean on Me (1989)'
+p1733
+S'0097722'
+p1734
+sS'Innerspace (1987)'
+p1735
+S'0093260'
+p1736
+sS'Adventures of Baron Munchausen, The (1988)'
+p1737
+S'0096764'
+p1738
+sS'Where the Heart Is (2000)'
+p1739
+S'0198021'
+p1740
+sS'Sayonara (1957)'
+p1741
+S'0050933'
+p1742
+sS'Above the Law (1988)'
+p1743
+S'0094602'
+p1744
+sS'Mystic Pizza (1988)'
+p1745
+S'0095690'
+p1746
+sS'Kung Pow: Enter the Fist (2002)'
+p1747
+S'0240468'
+p1748
+sS'Cool as Ice (1991)'
+p1749
+S'0101615'
+p1750
+sS"Von Ryan's Express (1965)"
+p1751
+S'0059885'
+p1752
+sS'Snatch (2000)'
+p1753
+S'0208092'
+p1754
+sS'Shakes the Clown (1992)'
+p1755
+S'0102898'
+p1756
+sS'Flash Gordon (1980)'
+p1757
+S'0080745'
+p1758
+sS'Shallow Hal (2001)'
+p1759
+S'0256380'
+p1760
+sS'Puppet Master 5: The Final Chapter (1994)'
+p1761
+S'5693078'
+p1762
+sS'13 Ghosts (1960)'
+p1763
+S'0053559'
+p1764
+sS'Golden Bowl, The (2000)'
+p1765
+S'0200669'
+p1766
+sS'Under the Sand (Sous le sable) (2000)'
+p1767
+S'0240913'
+p1768
+sS'Big Business (1988)'
+p1769
+S'0094739'
+p1770
+sS"Don't Say a Word (2001)"
+p1771
+S'0260866'
+p1772
+sS'Walk to Remember, A (2002)'
+p1773
+S'0281358'
+p1774
+sS'My Chauffeur (1986)'
+p1775
+S'0091579'
+p1776
+sS'Vanilla Sky (2001)'
+p1777
+S'0259711'
+p1778
+sS'Skin Deep (1989)'
+p1779
+S'0098343'
+p1780
+sS'Prince of Tides, The (1991)'
+p1781
+S'0102713'
+p1782
+sS'Dragon: The Bruce Lee Story (1993)'
+p1783
+S'0106770'
+p1784
+sS'Entertainer, The (1960)'
+p1785
+S'3854976'
+p1786
+sS'Golden Voyage of Sinbad, The (1974)'
+p1787
+S'0071569'
+p1788
+sS'Funny Bones (1995)'
+p1789
+S'0113133'
+p1790
+sS'Left Luggage (1998)'
+p1791
+S'0119512'
+p1792
+sS'Pajama Party (1964)'
+p1793
+S'0058440'
+p1794
+sS'Mrs. Soffel (1984)'
+p1795
+S'0087751'
+p1796
+sS'Ghosts of Mars (2001)'
+p1797
+S'0228333'
+p1798
+sS'Me Myself I (2000)'
+p1799
+S'0183505'
+p1800
+sS'Stardom (2000)'
+p1801
+S'0192949'
+p1802
+sS'Remember the Titans (2000)'
+p1803
+S'0210945'
+p1804
+sS'Godzilla 2000 (Gojira ni-sen mireniamu) (1999)'
+p1805
+S'0188640'
+p1806
+sS"Diary of a Chambermaid (Journal d'une femme de chambre, Le) (1964)"
+p1807
+S'0058249'
+p1808
+sS'Hot Pursuit (1987)'
+p1809
+S'0093215'
+p1810
+sS'Antitrust (2001)'
+p1811
+S'0218817'
+p1812
+sS'Solar Crisis (1990)'
+p1813
+S'0100649'
+p1814
+sS'End, The (1978)'
+p1815
+S'0466823'
+p1816
+sS'Conversation, The (1974)'
+p1817
+S'3831064'
+p1818
+sS'Competition, The (1980)'
+p1819
+S'0466682'
+p1820
+sS'Orphans (1997)'
+p1821
+S'0112856'
+p1822
+sS'Sidewalks of New York (2001)'
+p1823
+S'0239986'
+p1824
+sS'Caddyshack (1980)'
+p1825
+S'0080487'
+p1826
+sS'Sorority House Massacre (1986)'
+p1827
+S'0091990'
+p1828
+sS'Flatliners (1990)'
+p1829
+S'0099582'
+p1830
+sS'Love Field (1992)'
+p1831
+S'0104765'
+p1832
+sS'Theremin: An Electronic Odyssey (1993)'
+p1833
+S'0108323'
+p1834
+sS'Iris (2001)'
+p1835
+S'0280778'
+p1836
+sS'Bat*21 (1988)'
+p1837
+S'0094712'
+p1838
+sS'Happy Together (1989)'
+p1839
+S'0097478'
+p1840
+sS'Time Regained (Temps retrouv\xc3\xa9, Le) (1999)'
+p1841
+S'0189142'
+p1842
+sS'Clockwise (1986)'
+p1843
+S'0090852'
+p1844
+sS'Everything You Always Wanted to Know About Sex * But Were Afraid to Ask (1972)'
+p1845
+S'0068555'
+p1846
+sS'Myth of Fingerprints, The (1997)'
+p1847
+S'0119746'
+p1848
+sS"Coal Miner's Daughter (1980)"
+p1849
+S'0080549'
+p1850
+sS'Stepfather, The (1987)'
+p1851
+S'0094035'
+p1852
+sS'Beijing Bicycle (Shiqi sui de dan che) (2001)'
+p1853
+S'0276501'
+p1854
+sS'Cookie (1989)'
+p1855
+S'0097109'
+p1856
+sS'Shipping News, The (2001)'
+p1857
+S'0120824'
+p1858
+sS'Chopper (2000)'
+p1859
+S'0221073'
+p1860
+sS'Gosford Park (2001)'
+p1861
+S'0280707'
+p1862
+sS'Monsters, Inc. (2001)'
+p1863
+S'0198781'
+p1864
+sS'Big Eden (2000)'
+p1865
+S'0212815'
+p1866
+sS'Moby Dick (1956)'
+p1867
+S'0049513'
+p1868
+sS'Brave Little Toaster, The (1987)'
+p1869
+S'0092695'
+p1870
+sS'Hotel New Hampshire, The (1984)'
+p1871
+S'0087428'
+p1872
+sS'Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000)'
+p1873
+S'0190332'
+p1874
+sS'Little Soldier, The (Petit soldat, Le) (1963)'
+p1875
+S'0054177'
+p1876
+sS"Emperor's New Groove, The (2000)"
+p1877
+S'0120917'
+p1878
+sS'Two Can Play That Game (2001)'
+p1879
+S'0269341'
+p1880
+sS'Modern Times (1936)'
+p1881
+S'0027977'
+p1882
+sS'Deep End, The (2001)'
+p1883
+S'0250323'
+p1884
+sS'Head Over Heels (2001)'
+p1885
+S'0192111'
+p1886
+sS'Biloxi Blues (1988)'
+p1887
+S'0094746'
+p1888
+sS'True Believer (1989)'
+p1889
+S'0098524'
+p1890
+sS'Valdez Is Coming (1971)'
+p1891
+S'0067921'
+p1892
+sS'Lord of the Flies (1990)'
+p1893
+S'0100054'
+p1894
+sS'Return of the Living Dead, The (1985)'
+p1895
+S'0089907'
+p1896
+sS'Shadows and Fog (1991)'
+p1897
+S'0105378'
+p1898
+sS"But I'm a Cheerleader (1999)"
+p1899
+S'0179116'
+p1900
+sS'Color of Paradise, The (Rang-e khoda) (1999)'
+p1901
+S'0191043'
+p1902
+sS'10th Victim, The (La decima vittima) (1965)'
+p1903
+S'0059095'
+p1904
+sS'Company Man (2000)'
+p1905
+S'0177650'
+p1906
+sS'Stay Tuned (1992)'
+p1907
+S'0105466'
+p1908
+sS'Wall Street (1987)'
+p1909
+S'0094291'
+p1910
+sS'Bachelor Party (1984)'
+p1911
+S'0086927'
+p1912
+sS'Hans Christian Andersen (1952)'
+p1913
+S'0044685'
+p1914
+sS'Fury, The (1978)'
+p1915
+S'0077588'
+p1916
+sS'Good Earth, The (1937)'
+p1917
+S'0028944'
+p1918
+sS'Breaking In (1989)'
+p1919
+S'0096976'
+p1920
+sS'Obsession (1976)'
+p1921
+S'0074991'
+p1922
+sS'Lair of the White Worm, The (1988)'
+p1923
+S'0095488'
+p1924
+sS'Kate & Leopold (2001)'
+p1925
+S'0035423'
+p1926
+sS'Vertical Ray of the Sun, The (Mua he chieu thang dung) (2000)'
+p1927
+S'0224578'
+p1928
+sS'Predator (1987)'
+p1929
+S'0093773'
+p1930
+sS'American Ninja (1985)'
+p1931
+S'0088708'
+p1932
+sS'Erik the Viking (1989)'
+p1933
+S'0097289'
+p1934
+sS'Held Up (1999)'
+p1935
+S'0165831'
+p1936
+sS'T-Rex: Back to the Cretaceous (1998)'
+p1937
+S'0163862'
+p1938
+sS'Flight of Dragons, The (1982)'
+p1939
+S'0083951'
+p1940
+sS'Firestarter (1984)'
+p1941
+S'0087262'
+p1942
+sS'Twins (1988)'
+p1943
+S'0096320'
+p1944
+sS'Misfits, The (1961)'
+p1945
+S'0055184'
+p1946
+sS'Catch-22 (1970)'
+p1947
+S'0065528'
+p1948
+sS'Great Outdoors, The (1988)'
+p1949
+S'4571156'
+p1950
+sS'For the Love of Benji (1977)'
+p1951
+S'0076044'
+p1952
+sS'Abbott and Costello Meet Frankenstein (1948)'
+p1953
+S'0040068'
+p1954
+sS'Waking the Dead (2000)'
+p1955
+S'0259733'
+p1956
+sS'...And Justice for All (1979)'
+p1957
+S'0078718'
+p1958
+sS'Alien Nation (1988)'
+p1959
+S'0094631'
+p1960
+sS"Shaft's Big Score! (1972)"
+p1961
+S'0069257'
+p1962
+sS'Flying Tigers (1942)'
+p1963
+S'0034742'
+p1964
+sS'Making the Grade (1984)'
+p1965
+S'0087666'
+p1966
+sS'Iron Ladies, The (Satree lek) (2000)'
+p1967
+S'0263957'
+p1968
+sS'Without a Clue (1988)'
+p1969
+S'0096454'
+p1970
+sS'White Water Summer (1987)'
+p1971
+S'0094318'
+p1972
+sS'Predator 2 (1990)'
+p1973
+S'0100403'
+p1974
+sS'Accidental Tourist, The (1988)'
+p1975
+S'0094606'
+p1976
+sS'Orange County (2002)'
+p1977
+S'0273923'
+p1978
+sS'Hellbound: Hellraiser II (1988)'
+p1979
+S'0095294'
+p1980
+sS'House Party (1990)'
+p1981
+S'0099800'
+p1982
+sS'Party, The (1968)'
+p1983
+S'4852378'
+p1984
+sS'Eyes of Laura Mars (1978)'
+p1985
+S'0077530'
+p1986
+sS'Chances Are (1989)'
+p1987
+S'0097044'
+p1988
+sS'Royal Tenenbaums, The (2001)'
+p1989
+S'0265666'
+p1990
+sS'Big Trouble (2002)'
+p1991
+S'0246464'
+p1992
+sS'Dodsworth (1936)'
+p1993
+S'0027532'
+p1994
+sS'Unbelievable Truth, The (1989)'
+p1995
+S'0100842'
+p1996
+sS'Cabaret (1972)'
+p1997
+S'0068327'
+p1998
+sS'Sweet Smell of Success (1957)'
+p1999
+S'0051036'
+p2000
+sS'Hot to Trot (1988)'
+p2001
+S'0095326'
+p2002
+sS'D.O.A. (1988)'
+p2003
+S'0094933'
+p2004
+sS"Donovan's Reef (1963)"
+p2005
+S'0057007'
+p2006
+sS'Virgin Suicides, The (1999)'
+p2007
+S'0159097'
+p2008
+sS'Eagle Has Landed, The (1976)'
+p2009
+S'0074452'
+p2010
+sS'Serpent and the Rainbow, The (1988)'
+p2011
+S'0096071'
+p2012
+sS'School Daze (1988)'
+p2013
+S'0096054'
+p2014
+sS'Abominable Snowman, The (1957)'
+p2015
+S'0050095'
+p2016
+sS'Party, The (Boum, La) (1980)'
+p2017
+S'0082100'
+p2018
+sS"Actor's Revenge, An (Yukinoj\xc3\xb4 henge) (1963)"
+p2019
+S'0057710'
+p2020
+sS"Jonah Who Will Be 25 in the Year 2000 (Jonas qui aura 25 ans en l'an 2000) (1976)"
+p2021
+S'0074718'
+p2022
+sS'Last Exit to Brooklyn (1989)'
+p2023
+S'0097714'
+p2024
+sS'Bait (2000)'
+p2025
+S'0211938'
+p2026
+sS'Hollow Man (2000)'
+p2027
+S'0164052'
+p2028
+sS'4 Little Girls (1997)'
+p2029
+S'0118540'
+p2030
+sS'Fritz the Cat (1972)'
+p2031
+S'0068612'
+p2032
+sS'Keep the River on Your Right: A Modern Cannibal Tale (2000)'
+p2033
+S'0206187'
+p2034
+sS'House Party 2 (1991)'
+p2035
+S'0102065'
+p2036
+sS'Road to El Dorado, The (2000)'
+p2037
+S'0138749'
+p2038
+sS'Cat Ballou (1965)'
+p2039
+S'0059017'
+p2040
+sS'Skulls, The (2000)'
+p2041
+S'0192614'
+p2042
+sS'Riding in Cars with Boys (2001)'
+p2043
+S'0200027'
+p2044
+sS'Torch Song Trilogy (1988)'
+p2045
+S'0096289'
+p2046
+sS'Blue Angel, The (Blaue Engel, Der) (1930)'
+p2047
+S'0020697'
+p2048
+sS"No Man's Land (2001)"
+p2049
+S'0283509'
+p2050
+sS'Topkapi (1964)'
+p2051
+S'0058672'
+p2052
+sS'Funeral in Berlin (1966)'
+p2053
+S'0060437'
+p2054
+sS'Center Stage (2000)'
+p2055
+S'0210616'
+p2056
+sS'Convent, The (2000)'
+p2057
+S'0217331'
+p2058
+sS'Black Rain (1989)'
+p2059
+S'0096933'
+p2060
+sS"Porky's Revenge (1985)"
+p2061
+S'0089826'
+p2062
+sS'Last Wave, The (1977)'
+p2063
+S'0076299'
+p2064
+sS'3 Ninjas Kick Back (1994)'
+p2065
+S'0109015'
+p2066
+sS'Critical Condition (1987)'
+p2067
+S'0092798'
+p2068
+sS'Beastmaster, The (1982)'
+p2069
+S'0083630'
+p2070
+sS'Avalon (1990)'
+p2071
+S'0099073'
+p2072
+sS'Last Dragon, The (1985)'
+p2073
+S'0089461'
+p2074
+sS'Affair of Love, An (Liaison pornographique, Une) (1999)'
+p2075
+S'0204709'
+p2076
+sS'Divided We Fall (Mus\xc3\xadme si pom\xc3\xa1hat) (2000)'
+p2077
+S'0234288'
+p2078
+sS'Parenthood (1989)'
+p2079
+S'0098067'
+p2080
+sS"Beyond, The (E tu vivrai nel terrore - L'aldil\xc3\xa0) (1981)"
+p2081
+S'0082307'
+p2082
+sS'Youngblood (1986)'
+p2083
+S'0092272'
+p2084
+sS'Adventures of Ichabod and Mr. Toad, The (1949)'
+p2085
+S'0041094'
+p2086
+sS'Bring It On (2000)'
+p2087
+S'0204946'
+p2088
+sS'Time Machine, The (1960)'
+p2089
+S'0300555'
+p2090
+sS'Man from Snowy River, The (1982)'
+p2091
+S'0084296'
+p2092
+sS'Timerider (1982)'
+p2093
+S'0086443'
+p2094
+sS'Sicilian, The (1987)'
+p2095
+S'0093966'
+p2096
+sS'Night in the Life of Jimmy Reardon, A (1988)'
+p2097
+S'0095736'
+p2098
+sS'Pink Cadillac (1989)'
+p2099
+S'0098097'
+p2100
+sS'New York Stories (1989)'
+p2101
+S'0097965'
+p2102
+sS'Monkeybone (2001)'
+p2103
+S'0166276'
+p2104
+sS'Grumpy Old Men (1993)'
+p2105
+S'0107050'
+p2106
+sS'Proof of Life (2000)'
+p2107
+S'0228750'
+p2108
+sS'Baraka (1992)'
+p2109
+S'0103767'
+p2110
+sS'Eddie and the Cruisers (1983)'
+p2111
+S'0085475'
+p2112
+sS'Worth Winning (1989)'
+p2113
+S'0098678'
+p2114
+sS'Space Cowboys (2000)'
+p2115
+S'0186566'
+p2116
+sS'Anniversary Party, The (2001)'
+p2117
+S'0254099'
+p2118
+sS'Satyricon (1969)'
+p2119
+S'0166788'
+p2120
+sS'Tootsie (1982)'
+p2121
+S'0084805'
+p2122
+sS'Hollywood Knights, The (1980)'
+p2123
+S'0080881'
+p2124
+sS'Naked Gun 2 1/2: The Smell of Fear, The (1991)'
+p2125
+S'6092044'
+p2126
+sS'Harlem Nights (1989)'
+p2127
+S'0097481'
+p2128
+sS"I Know Where I'm Going! (1945)"
+p2129
+S'0037800'
+p2130
+sS'Scarface (1983)'
+p2131
+S'0086250'
+p2132
+sS'On the Town (1949)'
+p2133
+S'0041716'
+p2134
+sS'Hole in the Head, A (1959)'
+p2135
+S'1707678'
+p2136
+sS'MacArthur (1977)'
+p2137
+S'0076342'
+p2138
+sS'Sweetie (1989)'
+p2139
+S'0098725'
+p2140
+sS'Land Before Time, The (1988)'
+p2141
+S'5307516'
+p2142
+sS'Pawnbroker, The (1964)'
+p2143
+S'0059575'
+p2144
+sS'Last Castle, The (2001)'
+p2145
+S'0272020'
+p2146
+sS'Pornstar: The Legend of Ron Jeremy (2001)'
+p2147
+S'0282856'
+p2148
+sS'Light Years (Gandahar) (1988)'
+p2149
+S'0095525'
+p2150
+sS'State and Main (2000)'
+p2151
+S'0120202'
+p2152
+sS'Play Misty for Me (1971)'
+p2153
+S'0067588'
+p2154
+sS'Vamp (1986)'
+p2155
+S'0092147'
+p2156
+sS'Better Than Sex (2000)'
+p2157
+S'0236019'
+p2158
+sS'Great Balls of Fire! (1989)'
+p2159
+S'0097457'
+p2160
+sS'Bread and Roses (2000)'
+p2161
+S'0212826'
+p2162
+sS'Eraserhead (1977)'
+p2163
+S'0074486'
+p2164
+sS"I'm Gonna Git You Sucka (1988)"
+p2165
+S'0095348'
+p2166
+sS"Bill & Ted's Excellent Adventure (1989)"
+p2167
+S'0096928'
+p2168
+sS'Bandits (2001)'
+p2169
+S'0219965'
+p2170
+sS'Death Wish 4: The Crackdown (1987)'
+p2171
+S'0092857'
+p2172
+sS'You Can Count on Me (2000)'
+p2173
+S'0203230'
+p2174
+sS'Dr. Dolittle 2 (2001)'
+p2175
+S'0240462'
+p2176
+sS'Ladies Man, The (2000)'
+p2177
+S'6117502'
+p2178
+sS'Wicker Man, The (1973)'
+p2179
+S'0070917'
+p2180
+sS'Someone Like You (2001)'
+p2181
+S'0244970'
+p2182
+sS'Return of Swamp Thing, The (1989)'
+p2183
+S'0098193'
+p2184
+sS"Endurance: Shackleton's Legendary Antarctic Expedition, The (2000)"
+p2185
+S'0264578'
+p2186
+sS'Circle, The (Dayereh) (2000)'
+p2187
+S'0255094'
+p2188
+sS'Untamed Heart (1993)'
+p2189
+S'0108451'
+p2190
+sS'Shaft (1971)'
+p2191
+S'0067741'
+p2192
+sS'Cell, The (2000)'
+p2193
+S'0209958'
+p2194
+sS'Sunshine (1999)'
+p2195
+S'0145503'
+p2196
+sS'Legend of Drunken Master, The (Jui kuen II) (1994)'
+p2197
+S'0111512'
+p2198
+sS'Hook (1991)'
+p2199
+S'0102057'
+p2200
+sS'One, The (2001)'
+p2201
+S'0062622'
+p2202
+sS'Shootist, The (1976)'
+p2203
+S'0075213'
+p2204
+sS'Big Heat, The (1953)'
+p2205
+S'0045555'
+p2206
+sS'Footloose (1984)'
+p2207
+S'0087277'
+p2208
+sS'Switching Channels (1988)'
+p2209
+S'0096203'
+p2210
+sS'Beautiful Creatures (2000)'
+p2211
+S'0221889'
+p2212
+sS'Boost, The (1988)'
+p2213
+S'0094783'
+p2214
+sS'Luzhin Defence, The (2000)'
+p2215
+S'0211492'
+p2216
+sS'Gauntlet, The (1977)'
+p2217
+S'0076070'
+p2218
+sS'Glass Menagerie, The (1987)'
+p2219
+S'0059989'
+p2220
+sS'Hannibal (2001)'
+p2221
+S'0212985'
+p2222
+sS'Mr. Saturday Night (1992)'
+p2223
+S'0104928'
+p2224
+sS"Porky's II: The Next Day (1983)"
+p2225
+S'0086129'
+p2226
+sS'Tap (1989)'
+p2227
+S'0098442'
+p2228
+sS'War of the Roses, The (1989)'
+p2229
+S'3326936'
+p2230
+sS'Fast Food, Fast Women (2000)'
+p2231
+S'0206742'
+p2232
+sS'Vatel (2000)'
+p2233
+S'0190861'
+p2234
+sS'Me You Them (Eu, Tu, Eles) (2000)'
+p2235
+S'0244504'
+p2236
+sS'Maelstr\xc3\xb6m (2000)'
+p2237
+S'0220627'
+p2238
+sS'Sleepwalkers (1992)'
+p2239
+S'0105428'
+p2240
+sS"Mirror Crack'd, The (1980)"
+p2241
+S'0081163'
+p2242
+sS'Dream a Little Dream (1989)'
+p2243
+S'0097236'
+p2244
+sS'People That Time Forgot, The (1977)'
+p2245
+S'0076535'
+p2246
+sS"Puppet Master III: Toulon's Revenge (1991)"
+p2247
+S'0102728'
+p2248
+sS'Tailor of Panama, The (2001)'
+p2249
+S'0236784'
+p2250
+sS'Unsinkable Molly Brown, The (1964)'
+p2251
+S'0058708'
+p2252
+sS'Lion in Winter, The (1968)'
+p2253
+S'0063227'
+p2254
+sS'Lord of the Rings: The Fellowship of the Ring, The (2001)'
+p2255
+S'0120737'
+p2256
+sS"All the Rage (It's the Rage) (1999)"
+p2257
+S'0176426'
+p2258
+sS'Forgotten Silver (1996)'
+p2259
+S'0116344'
+p2260
+sS'Pocketful of Miracles (1961)'
+p2261
+S'0055312'
+p2262
+sS'Serpico (1973)'
+p2263
+S'0070666'
+p2264
+sS'Jump Tomorrow (2001)'
+p2265
+S'0273300'
+p2266
+sS'Waydowntown (2000)'
+p2267
+S'0219405'
+p2268
+sS'Gossip (2000)'
+p2269
+S'0176783'
+p2270
+sS'Jungle Fever (1991)'
+p2271
+S'0102175'
+p2272
+sS'Fatal Beauty (1987)'
+p2273
+S'0093011'
+p2274
+sS"Recess: School's Out (2001)"
+p2275
+S'0265632'
+p2276
+sS'Curse of the Puppet Master (Puppet Master 6: The Curse) (1998)'
+p2277
+S'5693082'
+p2278
+sS'Cannonball Run, The (1981)'
+p2279
+S'0082136'
+p2280
+sS'White Sands (1992)'
+p2281
+S'0105813'
+p2282
+sS"Can't Buy Me Love (1987)"
+p2283
+S'0092718'
+p2284
+sS'Raise the Titanic (1980)'
+p2285
+S'0081400'
+p2286
+sS'Melody Time (1948)'
+p2287
+S'0040580'
+p2288
+sS'Apartment Zero (1988)'
+p2289
+S'0094667'
+p2290
+sS'Changeling, The (1980)'
+p2291
+S'1525891'
+p2292
+sS'King of Marvin Gardens, The (1972)'
+p2293
+S'0068805'
+p2294
+sS"Can't Stop the Music (1980)"
+p2295
+S'0080492'
+p2296
+sS'Focus (2001)'
+p2297
+S'0246628'
+p2298
+sS'Barfly (1987)'
+p2299
+S'0092618'
+p2300
+sS'X-Men (2000)'
+p2301
+S'0120903'
+p2302
+sS'Puppet Master II (1991)'
+p2303
+S'0100438'
+p2304
+sS'Stormy Monday (1988)'
+p2305
+S'0096180'
+p2306
+sS'Billy Elliot (2000)'
+p2307
+S'0249462'
+p2308
+sS'What Women Want (2000)'
+p2309
+S'0207201'
+p2310
+sS'Big Boss, The (Fists of Fury) (Tang shan da xiong) (1971)'
+p2311
+S'0067824'
+p2312
+sS"Bridget Jones's Diary (2001)"
+p2313
+S'0243155'
+p2314
+sS'Indiscreet (1958)'
+p2315
+S'0051773'
+p2316
+sS'Steal This Movie! (2000)'
+p2317
+S'0161216'
+p2318
+sS'Pelle the Conqueror (Pelle erobreren) (1987)'
+p2319
+S'0093713'
+p2320
+sS'Retro Puppet Master (Puppet Master 7) (1999)'
+p2321
+S'5693088'
+p2322
+sS'Fatso (1980)'
+p2323
+S'0080724'
+p2324
+sS'Decline of Western Civilization, The (1981)'
+p2325
+S'0082252'
+p2326
+sS'Scarlet Empress, The (1934)'
+p2327
+S'0025746'
+p2328
+sS'Rififi (Du rififi chez les hommes) (1955)'
+p2329
+S'0048021'
+p2330
+sS'Five Senses, The (1999)'
+p2331
+S'0168794'
+p2332
+sS'Boogeyman, The (1980)'
+p2333
+S'0080464'
+p2334
+sS'Quills (2000)'
+p2335
+S'0180073'
+p2336
+sS'Hollywood Shuffle (1987)'
+p2337
+S'0093200'
+p2338
+sS'Bikini Beach (1964)'
+p2339
+S'0057887'
+p2340
+sS'American Pie 2 (2001)'
+p2341
+S'0252866'
+p2342
+sS'Rock Star (2001)'
+p2343
+S'0202470'
+p2344
+sS'Relentless (1989)'
+p2345
+S'0098184'
+p2346
+sS'Girls Just Want to Have Fun (1985)'
+p2347
+S'0089208'
+p2348
+sS'Black Robe (1991)'
+p2349
+S'0101465'
+p2350
+sS'Hamlet (1990)'
+p2351
+S'0099726'
+p2352
+sS'Spring Break (1983)'
+p2353
+S'0086352'
+p2354
+sS'Night of the Creeps (1986)'
+p2355
+S'0091630'
+p2356
+sS'Loverboy (1989)'
+p2357
+S'0097790'
+p2358
+sS'Bloodsport (1988)'
+p2359
+S'0092675'
+p2360
+sS'Angel Eyes (2001)'
+p2361
+S'0225071'
+p2362
+sS'Digimon: The Movie (2000)'
+p2363
+S'0259974'
+p2364
+sS'Bronco Billy (1980)'
+p2365
+S'0080472'
+p2366
+sS"Himalaya (Himalaya - l'enfance d'un chef) (1999)"
+p2367
+S'0210727'
+p2368
+sS'More (1998)'
+p2369
+S'0188913'
+p2370
+sS'Brainstorm (1983)'
+p2371
+S'0085271'
+p2372
+sS'Like Father, Like Son (1987)'
+p2373
+S'1339904'
+p2374
+sS'Beverly Hills Cop (1984)'
+p2375
+S'0086960'
+p2376
+sS'Crimson Rivers, The (Rivi\xc3\xa8res pourpres, Les) (2000)'
+p2377
+S'0228786'
+p2378
+sS'Miss Firecracker (1989)'
+p2379
+S'0097892'
+p2380
+sS'Drowning by Numbers (1988)'
+p2381
+S'0092929'
+p2382
+sS'Red Scorpion (1989)'
+p2383
+S'0098180'
+p2384
+sS'How to Marry a Millionaire (1953)'
+p2385
+S'0045891'
+p2386
+sS"One Night at McCool's (2001)"
+p2387
+S'0203755'
+p2388
+sS'Frequency (2000)'
+p2389
+S'0186151'
+p2390
+sS'Romero (1989)'
+p2391
+S'0098219'
+p2392
+sS'Men of Honor (2000)'
+p2393
+S'0203019'
+p2394
+sS'Short Circuit 2 (1988)'
+p2395
+S'0096101'
+p2396
+sS'Mal\xc3\xa8na (2000)'
+p2397
+S'0213847'
+p2398
+sS'Invasion U.S.A. (1985)'
+p2399
+S'0089348'
+p2400
+sS'Battleship Potemkin (Bronenosets Potyomkin) (1925)'
+p2401
+S'0015648'
+p2402
+sS'Lady in a Cage (1964)'
+p2403
+S'0058283'
+p2404
+sS'Nico and Dani (Kr\xc3\xa1mpack) (2000)'
+p2405
+S'0250478'
+p2406
+sS'U-571 (2000)'
+p2407
+S'0141926'
+p2408
+sS'Exterminator, The (1980)'
+p2409
+S'0080707'
+p2410
+sS'Another 48 Hrs. (1990)'
+p2411
+S'0099044'
+p2412
+sS'Galaxina (1980)'
+p2413
+S'0080771'
+p2414
+sS'Paris When It Sizzles (1964)'
+p2415
+S'0058453'
+p2416
+sS'Forbidden Zone (1980)'
+p2417
+S'0080752'
+p2418
+sS'Interiors (1978)'
+p2419
+S'0077742'
+p2420
+sS'Hiding Out (1987)'
+p2421
+S'0093186'
+p2422
+sS'Passion of Mind (2000)'
+p2423
+S'0160644'
+p2424
+sS'Invisible Man, The (1933)'
+p2425
+S'1452793'
+p2426
+sS'Not Without My Daughter (1991)'
+p2427
+S'0102555'
+p2428
+sS'Carny (1980)'
+p2429
+S'0080500'
+p2430
+sS'Series 7: The Contenders (2001)'
+p2431
+S'0251031'
+p2432
+sS'Moving (1988)'
+p2433
+S'0095662'
+p2434
+sS'Finding Forrester (2000)'
+p2435
+S'0181536'
+p2436
+sS"Losin' It (1983)"
+p2437
+S'0085868'
+p2438
+sS"She's Gotta Have It (1986)"
+p2439
+S'0091939'
+p2440
+sS'Honeymoon in Vegas (1992)'
+p2441
+S'0104438'
+p2442
+sS'For the Boys (1991)'
+p2443
+S'0101902'
+p2444
+sS'Heartbreakers (2001)'
+p2445
+S'0125022'
+p2446
+sS'1969 (1988)'
+p2447
+S'0094594'
+p2448
+sS'Body, The (2001)'
+p2449
+S'0201485'
+p2450
+sS'Tuvalu (1999)'
+p2451
+S'0162023'
+p2452
+sS'Fortune Cookie, The (1966)'
+p2453
+S'0060424'
+p2454
+sS'Bootmen (2000)'
+p2455
+S'0210584'
+p2456
+sS'Aberdeen (2000)'
+p2457
+S'0168446'
+p2458
+sS'Prelude to a Kiss (1992)'
+p2459
+S'0105165'
+p2460
+sS'Meet the Parents (2000)'
+p2461
+S'0212338'
+p2462
+sS'Shrek (2001)'
+p2463
+S'0126029'
+p2464
+sS'Rent-A-Cop (1988)'
+p2465
+S'1592030'
+p2466
+sS'Postcards From the Edge (1990)'
+p2467
+S'0100395'
+p2468
+sS'East is East (1999)'
+p2469
+S'0166175'
+p2470
+sS'Starman (1984)'
+p2471
+S'0088172'
+p2472
+sS'Reform School Girls (1986)'
+p2473
+S'0091836'
+p2474
+sS'Carnosaur 2 (1995)'
+p2475
+S'0112634'
+p2476
+sS'Brigham City (2001)'
+p2477
+S'0268200'
+p2478
+sS'Wuthering Heights (1970)'
+p2479
+S'0066585'
+p2480
+sS'Foxes (1980)'
+p2481
+S'0080756'
+p2482
+sS'Garden of the Finzi-Continis, The (Giardino dei Finzi-Contini, Il) (1970)'
+p2483
+S'0065777'
+p2484
+sS'Thunderbolt and Lightfoot (1974)'
+p2485
+S'0072288'
+p2486
+sS'Billy Liar (1963)'
+p2487
+S'0056868'
+p2488
+sS'Longtime Companion (1990)'
+p2489
+S'0100049'
+p2490
+sS'Soft Fruit (1999)'
+p2491
+S'0180181'
+p2492
+sS'Corky Romano (2001)'
+p2493
+S'0250310'
+p2494
+sS'Little Nicky (2000)'
+p2495
+S'0185431'
+p2496
+sS'Return of the Fly (1959)'
+p2497
+S'0053219'
+p2498
+sS'Death Wish (1974)'
+p2499
+S'0071402'
+p2500
+sS'Along Came a Spider (2001)'
+p2501
+S'0164334'
+p2502
+sS'Joe Somebody (2001)'
+p2503
+S'0279889'
+p2504
+sS'Zoolander (2001)'
+p2505
+S'0196229'
+p2506
+sS'Moulin Rouge (2001)'
+p2507
+S'0203009'
+p2508
+sS'Lost Souls (2000)'
+p2509
+S'0160484'
+p2510
+sS'Blow (2001)'
+p2511
+S'0221027'
+p2512
+sS'Her Alibi (1989)'
+p2513
+S'0097500'
+p2514
+sS'Def-Con 4 (1985)'
+p2515
+S'0087130'
+p2516
+sS'Heist (2001)'
+p2517
+S'0252503'
+p2518
+sS'Twelve Chairs, The (1970)'
+p2519
+S'0066495'
+p2520
+sS'In Country (1989)'
+p2521
+S'0097570'
+p2522
+sS"She's Having a Baby (1988)"
+p2523
+S'0096094'
+p2524
+sS'Dirty Rotten Scoundrels (1988)'
+p2525
+S'0095031'
+p2526
+sS'Man Who Cried, The (2000)'
+p2527
+S'0206917'
+p2528
+sS'Cure (1997)'
+p2529
+S'0123948'
+p2530
+sS'Memento (2000)'
+p2531
+S'0209144'
+p2532
+sS"Ocean's Eleven (2001)"
+p2533
+S'0240772'
+p2534
+sS'Carnosaur (1993)'
+p2535
+S'0106521'
+p2536
+sS'Now, Voyager (1942)'
+p2537
+S'0035140'
+p2538
+sS'Slumber Party Massacre, The (1982)'
+p2539
+S'0084695'
+p2540
+sS'Here on Earth (2000)'
+p2541
+S'0195778'
+p2542
+sS'Opportunists, The (2000)'
+p2543
+S'0138681'
+p2544
+sS'Mighty Quinn, The (1989)'
+p2545
+S'0097880'
+p2546
+sS'Vanishing, The (Spoorloos) (1988)'
+p2547
+S'0096163'
+p2548
+sS"Murphy's Romance (1985)"
+p2549
+S'0089643'
+p2550
+sS'Horror Express (1972)'
+p2551
+S'4760230'
+p2552
+sS'Original Kings of Comedy, The (2000)'
+p2553
+S'0236388'
+p2554
+sS'Dying Young (1991)'
+p2555
+S'0101787'
+p2556
+sS'Haunted (1995)'
+p2557
+S'0113269'
+p2558
+sS'Fiddler on the Roof (1971)'
+p2559
+S'0067093'
+p2560
+sS'Fire and Ice (1983)'
+p2561
+S'0085542'
+p2562
+sS'Liam (2000)'
+p2563
+S'0255321'
+p2564
+sS'Gleaming the Cube (1989)'
+p2565
+S'0097438'
+p2566
+sS'Way of the Gun, The (2000)'
+p2567
+S'0202677'
+p2568
+sS'Just Visiting (2001)'
+p2569
+S'0189192'
+p2570
+sS'Medium Cool (1969)'
+p2571
+S'0064652'
+p2572
+sS'Magnum Force (1973)'
+p2573
+S'0070355'
+p2574
+sS'Going Overboard (1989)'
+p2575
+S'0096870'
+p2576
+sS'From Hell (2001)'
+p2577
+S'0120681'
+p2578
+sS"Donovan's Brain (1953)"
+p2579
+S'0045699'
+p2580
+sS'King in New York, A (1957)'
+p2581
+S'0050598'
+p2582
+sS'I Never Promised You a Rose Garden (1977)'
+p2583
+S'0076172'
+p2584
+sS'Glass House, The (2001)'
+p2585
+S'0498348'
+p2586
+sS'Too Late the Hero (1970)'
+p2587
+S'0066471'
+p2588
+sS"Caveman's Valentine, The (2001)"
+p2589
+S'0182000'
+p2590
+sS"Cat o' Nine Tails, The (Gatto a nove code, Il) (1971)"
+p2591
+S'0065761'
+p2592
+sS'Sexy Beast (2000)'
+p2593
+S'0203119'
+p2594
+sS'Little Foxes, The (1941)'
+p2595
+S'0033836'
+p2596
+sS'My Demon Lover (1987)'
+p2597
+S'0093589'
+p2598
+sS'Unbreakable (2000)'
+p2599
+S'0217869'
+p2600
+sS'Naked Gun: From the Files of Police Squad!, The (1988)'
+p2601
+S'0095705'
+p2602
+sS'Into the Arms of Strangers: Stories of the Kindertransport (2000)'
+p2603
+S'0248912'
+p2604
+sS'Everlasting Piece, An (2000)'
+p2605
+S'0218182'
+p2606
+sS"No Man's Land (1987)"
+p2607
+S'0093638'
+p2608
+sS'Girl on the Bridge, The (Fille sur le pont, La) (1999)'
+p2609
+S'0144201'
+p2610
+sS'Enforcer, The (1976)'
+p2611
+S'0074483'
+p2612
+sS'Loser (2000)'
+p2613
+S'0217630'
+p2614
+sS'Benji the Hunted (1987)'
+p2615
+S'0092638'
+p2616
+sS'Imagine: John Lennon (1988)'
+p2617
+S'0095360'
+p2618
+sS'Rat Race (2001)'
+p2619
+S'0250687'
+p2620
+sS"Devil's Backbone, The (Espinazo del diablo, El) (2001)"
+p2621
+S'0256009'
+p2622
+sS'Rio Bravo (1959)'
+p2623
+S'0053221'
+p2624
+sS'Uncommon Valor (1983)'
+p2625
+S'0086508'
+p2626
+sS'Inherit the Wind (1960)'
+p2627
+S'0053946'
+p2628
+sS'Love and Basketball (2000)'
+p2629
+S'0573921'
+p2630
+sS'Gypsy (1962)'
+p2631
+S'0056048'
+p2632
+sS'Lonely Are the Brave (1962)'
+p2633
+S'0056195'
+p2634
+sS'Bless the Child (2000)'
+p2635
+S'0163983'
+p2636
+sS'World According to Garp, The (1982)'
+p2637
+S'0084917'
+p2638
+sS'Dr. Mabuse: The Gambler (Dr. Mabuse, der Spieler) (1922)'
+p2639
+S'0013086'
+p2640
+sS'Maid to Order (1987)'
+p2641
+S'0093476'
+p2642
+sS'Prince of the City (1981)'
+p2643
+S'0082945'
+p2644
+sS'Dinner Rush (2000)'
+p2645
+S'0229340'
+p2646
+sS'Others, The (2001)'
+p2647
+S'0230600'
+p2648
+sS'Toxic Avenger, Part II, The (1989)'
+p2649
+S'0098503'
+p2650
+sS'Innocence (2000)'
+p2651
+S'0251141'
+p2652
+sS'Limelight (1952)'
+p2653
+S'0044837'
+p2654
+sS'Make Mine Music (1946)'
+p2655
+S'0038718'
+p2656
+sS'Original Sin (2001)'
+p2657
+S'0218922'
+p2658
+sS'Things Change (1988)'
+p2659
+S'0096259'
+p2660
+sS'Crew, The (2000)'
+p2661
+S'0198386'
+p2662
+sS'Return of the Musketeers, The (1989)'
+p2663
+S'0098194'
+p2664
+sS'Caddyshack II (1988)'
+p2665
+S'0094824'
+p2666
+sS'Impostor (2002)'
+p2667
+S'5546660'
+p2668
+sS'Enemy at the Gates (2001)'
+p2669
+S'0215750'
+p2670
+sS'3000 Miles to Graceland (2001)'
+p2671
+S'0233142'
+p2672
+sS'Rocket Gibraltar (1988)'
+p2673
+S'0096003'
+p2674
+sS'Fat Girl (\xc3\x80 ma soeur!) (2001)'
+p2675
+S'0243255'
+p2676
+sS'Kingdom Come (2001)'
+p2677
+S'0246002'
+p2678
+sS'Roustabout (1964)'
+p2679
+S'0058534'
+p2680
+sS'Pumpkinhead (1988)'
+p2681
+S'0095925'
+p2682
+sS'Maybe Baby (2000)'
+p2683
+S'0206926'
+p2684
+sS'Masquerade (1988)'
+p2685
+S'0095599'
+p2686
+sS'Return of a Man Called Horse, The (1976)'
+p2687
+S'0075132'
+p2688
+sS"Last Resort (National Lampoon's Last Resort) (1994)"
+p2689
+S'0110629'
+p2690
+sS'Idiots, The (Idioterne) (1998)'
+p2691
+S'0154421'
+p2692
+sS'Bossa Nova (2000)'
+p2693
+S'0180837'
+p2694
+sS'Bagdad Cafe (Out of Rosenheim) (1987)'
+p2695
+S'0095801'
+p2696
+sS'Little Otik (Otes\xc3\xa1nek) (2000)'
+p2697
+S'0228687'
+p2698
+sS'Carnosaur 3: Primal Species (1996)'
+p2699
+S'0115834'
+p2700
+sS'Casualties of War (1989)'
+p2701
+S'0097027'
+p2702
+sS'Thing with Two Heads, The (1972)'
+p2703
+S'0069372'
+p2704
+sS'Separate Tables (1958)'
+p2705
+S'0052182'
+p2706
+sS'Big Easy, The (1987)'
+p2707
+S'1580573'
+p2708
+sS'Hope and Glory (1987)'
+p2709
+S'0093209'
+p2710
+sS'Gentlemen Prefer Blondes (1953)'
+p2711
+S'0045810'
+p2712
+sS'Diamonds Are Forever (1971)'
+p2713
+S'0066995'
+p2714
+sS'Vanishing, The (1993)'
+p2715
+S'0108473'
+p2716
+sS'When Brendan Met Trudy (2000)'
+p2717
+S'0220157'
+p2718
+sS'Housekeeping (1987)'
+p2719
+S'0093225'
+p2720
+sS'Behind Enemy Lines (2001)'
+p2721
+S'0159273'
+p2722
+sS'Seven Days in May (1964)'
+p2723
+S'0058576'
+p2724
+sS'Dead Pool, The (1988)'
+p2725
+S'0094963'
+p2726
+sS'Josie and the Pussycats (2001)'
+p2727
+S'0236348'
+p2728
+sS'Cats & Dogs (2001)'
+p2729
+S'0239395'
+p2730
+sS'Kandahar (Safar e Ghandehar) (2001)'
+p2731
+S'0283431'
+p2732
+sS'Johnny Handsome (1989)'
+p2733
+S'0097626'
+p2734
+sS'Sand Pebbles, The (1966)'
+p2735
+S'0060934'
+p2736
+sS"Kelly's Heroes (1970)"
+p2737
+S'0065938'
+p2738
+sS'Urbania (2000)'
+p2739
+S'0182508'
+p2740
+sS'Krull (1983)'
+p2741
+S'0085811'
+p2742
+sS'Things Are Tough All Over (1982)'
+p2743
+S'0084788'
+p2744
+sS'Month in the Country, A (1987)'
+p2745
+S'0093562'
+p2746
+sS'Sarafina! (1992)'
+p2747
+S'0105316'
+p2748
+sS'Heart of Glass (Herz aus Glas) (1976)'
+p2749
+S'0074626'
+p2750
+sS'Extreme Prejudice (1987)'
+p2751
+S'0092997'
+p2752
+sS'California Suite (1978)'
+p2753
+S'0077289'
+p2754
+sS'Trixie (2000)'
+p2755
+S'0162711'
+p2756
+sS'Nurse Betty (2000)'
+p2757
+S'0171580'
+p2758
+sS'Time Code (2000)'
+p2759
+S'0220100'
+p2760
+sS"Gray's Anatomy (1996)"
+p2761
+S'0116447'
+p2762
+sS'Arthur 2: On the Rocks (1988)'
+p2763
+S'0094678'
+p2764
+sS'Burnt Money (Plata Quemada) (2000)'
+p2765
+S'0227277'
+p2766
+sS'Highlander: Endgame (2000)'
+p2767
+S'0144964'
+p2768
+sS'Driven (2001)'
+p2769
+S'0132245'
+p2770
+sS'Vertical Limit (2000)'
+p2771
+S'0190865'
+p2772
+sS'Lords of Flatbush, The (1974)'
+p2773
+S'0071772'
+p2774
+sS'Our Town (1940)'
+p2775
+S'0032881'
+p2776
+sS'Moonraker (1979)'
+p2777
+S'0079574'
+p2778
+sS'Return to Me (2000)'
+p2779
+S'0122459'
+p2780
+sS'Strange Love of Martha Ivers, The (1946)'
+p2781
+S'0038988'
+p2782
+sS'Scary Movie 2 (2001)'
+p2783
+S'0257106'
+p2784
+sS'3 Ninjas Knuckle Up (1995)'
+p2785
+S'0112255'
+p2786
+sS'Where the Money Is (2000)'
+p2787
+S'0149367'
+p2788
+sS'Bones (2001)'
+p2789
+S'0166110'
+p2790
+sS'Johnny Be Good (1988)'
+p2791
+S'0095409'
+p2792
+sS'Replacements, The (2000)'
+p2793
+S'0191397'
+p2794
+sS'Escaflowne: The Movie (Escaflowne) (2000)'
+p2795
+S'0270933'
+p2796
+sS'Lord of the Flies (1963)'
+p2797
+S'0057261'
+p2798
+sS'Valentine (2001)'
+p2799
+S'0242998'
+p2800
+sS'Arthur (1981)'
+p2801
+S'0082031'
+p2802
+sS'Renegades (1989)'
+p2803
+S'0098188'
+p2804
+sS'A.I. Artificial Intelligence (2001)'
+p2805
+S'0212720'
+p2806
+sS'Fighting Seabees, The (1944)'
+p2807
+S'0036824'
+p2808
+sS'Toy, The (1982)'
+p2809
+S'0084809'
+p2810
+sS'Nightwatch (Nattevagten) (1994)'
+p2811
+S'0110631'
+p2812
+sS'Brotherhood of the Wolf (Pacte des loups, Le) (2001)'
+p2813
+S'0237534'
+p2814
+sS'Sunset (1988)'
+p2815
+S'0096193'
+p2816
+sS'Assault on Precinct 13 (1976)'
+p2817
+S'0074156'
+p2818
+sS'Inferno (1980)'
+p2819
+S'0080923'
+p2820
+sS'With a Friend Like Harry... (Harry, un ami qui vous veut du bien) (2000)'
+p2821
+S'0216800'
+p2822
+sS'Gift, The (2000)'
+p2823
+S'0219699'
+p2824
+sS'My Stepmother Is an Alien (1988)'
+p2825
+S'0095687'
+p2826
+sS'Die, Monster, Die! (1965)'
+p2827
+S'0059465'
+p2828
+sS'Cannonball Run II (1984)'
+p2829
+S'0087032'
+p2830
+sS'Domestic Disturbance (2001)'
+p2831
+S'0249478'
+p2832
+sS'Little Monsters (1989)'
+p2833
+S'0097758'
+p2834
+sS'Blow-Out (La grande bouffe) (1973)'
+p2835
+S'0070130'
+p2836
+sS'Gone in 60 Seconds (2000)'
+p2837
+S'0071571'
+p2838
+sS'Hot Spot, The (1990)'
+p2839
+S'0099797'
+p2840
+sS'When Worlds Collide (1951)'
+p2841
+S'0044207'
+p2842
+sS'Bamboozled (2000)'
+p2843
+S'0215545'
+p2844
+sS'Trembling Before G-d (2001)'
+p2845
+S'0278102'
+p2846
+sS'Curse of the Jade Scorpion, The (2001)'
+p2847
+S'0256524'
+p2848
+sS'Jimmy Neutron: Boy Genius (2001)'
+p2849
+S'0268397'
+p2850
+sS'Uncle Buck (1989)'
+p2851
+S'0098554'
+p2852
+sS"Charlie's Angels (2000)"
+p2853
+S'0160127'
+p2854
+sS'Panic (2000)'
+p2855
+S'0194218'
+p2856
+sS'Coming to America (1988)'
+p2857
+S'0094898'
+p2858
+sS"Captain Corelli's Mandolin (2001)"
+p2859
+S'0238112'
+p2860
+sS"America's Sweethearts (2001)"
+p2861
+S'0265029'
+p2862
+sS'Love & Sex (2000)'
+p2863
+S'0234137'
+p2864
+sS'Dark Command (1940)'
+p2865
+S'0032383'
+p2866
+sS'Frantic (1988)'
+p2867
+S'0095174'
+p2868
+sS'Silkwood (1983)'
+p2869
+S'0086312'
+p2870
+sS'Out Cold (2001)'
+p2871
+S'0253798'
+p2872
+sS'Hearts in Atlantis (2001)'
+p2873
+S'0252501'
+p2874
+sS'Point Break (1991)'
+p2875
+S'0102685'
+p2876
+sS'At Close Range (1986)'
+p2877
+S'0090670'
+p2878
+sS'Gettysburg (1993)'
+p2879
+S'0107007'
+p2880
+sS'Flintstones in Viva Rock Vegas, The (2000)'
+p2881
+S'0158622'
+p2882
+sS'Small Time Crooks (2000)'
+p2883
+S'0196216'
+p2884
+sS'Mexican, The (2001)'
+p2885
+S'0236493'
+p2886
+sS'Vice Versa (1988)'
+p2887
+S'0096380'
+p2888
+sS'5,000 Fingers of Dr. T, The (1953)'
+p2889
+S'0045464'
+p2890
+sS'Beautiful Mind, A (2001)'
+p2891
+S'0268978'
+p2892
+s.

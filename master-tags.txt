@@ -1,0 +1,237 @@
+17	absurd	86
+367	existentialism	132
+29	affectionate	23
+94	awful	30
+95	bad	21
+98	bad ending	104
+489	happy ending	80
+712	non-hollywood ending	20
+805	powerful ending	131
+993	surprise ending	88
+127	betrayal	42
+195	cheating	24
+154	boring	395
+155	boring!	30
+
+161	breathtaking	22
+
+167	brutal	78
+
+187	catastrophe	43
+
+237	compassionate	35
+
+254	cool	33
+
+257	corruption	168
+
+259	courage	17
+
+264	crazy	35
+
+265	creativity	21
+
+266	creepy	158
+
+229	comedy	796
+285	dark comedy	630
+288	dark humor	154
+331	dumb	67
+332	dumb but funny	20
+271	crude humor	117
+475	gross-out	23
+734	off-beat comedy	69
+
+295	depressing	236
+296	depression	86
+
+306	disappointing	133
+
+311	disturbing	454
+
+322	drama	355
+323	dramatic	78
+
+340	eccentricity	25
+
+343	eerie	59
+476	gruesome	41
+
+347	emotional	219
+
+354	entertaining	48
+
+358	epic	137
+
+366	exciting	33
+
+378	farce	43
+
+386	feel good movie	80
+387	feel-good	146
+
+409	freedom	34
+
+412	frightening	16
+
+411	friendship	288
+
+413	fun	143
+414	fun movie	15
+415	funniest movies	36
+416	funny	665
+417	funny as hell	84
+504	hilarious	268
+505	hillarious	20
+527	humor	139
+528	humorous	251
+
+1056	unfunny	58
+1057	unintentionally funny	42
+
+
+932	so bad it's funny	25
+
+718	not funny	112
+1070	very funny	37
+
+
+429	genius	85
+444	good	43
+
+454	goofy	69
+455	gore	172
+456	goretastic	21
+457	gory	40
+1033	torture	129
+
+458	goth	18
+459	gothic	142
+
+471	greed	43
+472	grim	57
+
+477	guilt	30
+478	guilty pleasure	39
+
+496	heartwarming	166
+1002	sweet	75
+
+518	honest	33
+
+520	horrible	30
+521	horror	365
+
+526	humanity	22
+
+530	idealism	42
+
+532	idiotic	28
+
+546	insanity	126
+547	inspirational	283
+548	inspiring	47
+
+556	intimate	35
+
+564	ironic	21
+
+565	irreverent	61
+
+584	justice	75
+
+609	loneliness	193
+
+612	love	171
+613	love story	191
+614	love triangles	24
+27	adultery	86
+
+617	lyrical	52
+
+618	macabre	32
+
+638	meditative	82
+639	melancholic	76
+640	melancholy	118
+
+649	midlife crisis	52
+
+709	nocturnal	21
+710	noir	43
+
+732	obsession	93
+
+738	ominous	38
+
+765	paranoia	84
+766	paranoid	67
+
+770	passionate	31
+
+790	poignant	82
+791	pointless	69
+
+804	poverty	62
+
+808	prejudice	14
+
+811	pretentious	56
+
+
+827	queer	62 
+
+828	quirky	509 
+
+843	redemption	84
+
+844	reflective	156
+
+849	revenge	337
+1069	vengeance	53
+
+851	ridiculous	109
+
+862	romance	598
+863	romantic	131
+864	romantic comedy	109
+
+870	sad	180
+871	sad but good	46
+
+875	sarcasm	27
+876	satire	437
+877	satirical	186
+
+881	scary	124
+883	schizophrenia	79
+
+918	silly	169
+919	silly fun	25
+
+932	so bad it's funny	25
+933	so bad it's good	75
+
+936	solitude	27
+
+972	stranded	71
+973	strange	56
+
+976	stunning	20
+
+977	stupid	289
+978	stupid as hell	37
+979	stupidity	33
+
+1019	tense	284
+
+1034	touching	202
+
+1036	tragedy	83
+
+1103	weird	184
+
+1107	whimsical	168
+
+
+

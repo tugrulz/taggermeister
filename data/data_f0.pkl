@@ -1,0 +1,378 @@
+(dp0
+S"School of Flesh, The (\xc3\x89cole de la chair, L') (1998)"
+p1
+S'0157208'
+p2
+sS'Strike! (a.k.a. All I Wanna Do, The Hairy Bird) (1998)'
+p3
+S'0120692'
+p4
+sS'Waking Ned Devine (a.k.a. Waking Ned) (1998)'
+p5
+S'0166396'
+p6
+sS'Heavyweights (a.k.a. Heavy Weights) (1995)'
+p7
+S'0110006'
+p8
+sS"Lover's Knot (1996)"
+p9
+S'0116934'
+p10
+sS"Swept Away (Travolti da un insolito destino nell'azzurro mare d'Agosto) (1975)"
+p11
+S'0291502'
+p12
+sS'24 Hour Woman, The (1998)'
+p13
+S'2798344'
+p14
+sS"Legend of 1900, The (a.k.a. The Legend of the Pianist on the Ocean) (Leggenda del pianista sull'oceano) (1998)"
+p15
+S'0120731'
+p16
+sS'Johnny 100 Pesos (Johnny cien pesos) (1993)'
+p17
+S'0107274'
+p18
+sS'Terrorist, The (a.k.a. Malli) (Theeviravaathi) (1998)'
+p19
+S'0073796'
+p20
+sS'Kindred, The (1986)'
+p21
+S'0115232'
+p22
+sS'Men in Black (a.k.a. MIB) (1997)'
+p23
+S'0119654'
+p24
+sS"Ennui, L' (1998)"
+p25
+S'0168740'
+p26
+sS'Sunset Blvd. (a.k.a. Sunset Boulevard) (1950)'
+p27
+S'0043014'
+p28
+sS'King Kong vs. Godzilla (Kingukongu tai Gojira) (1962)'
+p29
+S'0056142'
+p30
+sS'Bread and Chocolate (Pane e cioccolata) (1973)'
+p31
+S'0070506'
+p32
+sS'Superman III (1983)'
+p33
+S'0086393'
+p34
+sS'Alarmist, The (a.k.a. Life During Wartime) (1997)'
+p35
+S'0119534'
+p36
+sS'Ghostbusters (a.k.a. Ghost Busters) (1984)'
+p37
+S'1289401'
+p38
+sS'Fallen Angels (Duo luo tian shi) (1995)'
+p39
+S'0112913'
+p40
+sS'Number Seventeen (a.k.a. Number 17) (1932)'
+p41
+S'0023285'
+p42
+sS'Friend of the Deceased, A (Priyatel pokonika) (1997)'
+p43
+S'0119952'
+p44
+sS'Jungle2Jungle (a.k.a. Jungle 2 Jungle) (1997)'
+p45
+S'0119432'
+p46
+sS'Window to Paris (Okno v Parizh) (1994)'
+p47
+S'0110719'
+p48
+sS'Seven Beauties (Pasqualino Settebellezze) (1976)'
+p49
+S'0075040'
+p50
+sS'Catwalk (1996)'
+p51
+S'0103384'
+p52
+sS'Twin Dragons (Shuang long hui) (1992)'
+p53
+S'0105399'
+p54
+sS'Force of Evil (1948)'
+p55
+S'0040366'
+p56
+sS'Final Conflict, The (a.k.a. Omen III: The Final Conflict) (1981)'
+p57
+S'0123816'
+p58
+sS'Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948)'
+p59
+S'0040522'
+p60
+sS'To Live (Huozhe) (1994)'
+p61
+S'0044741'
+p62
+sS"Handle with Care (a.k.a. Citizen's Band) (1977)"
+p63
+S'0076123'
+p64
+sS'Life Is Rosy (a.k.a. Life Is Beautiful) (Vie est belle, La) (1987)'
+p65
+S'0094265'
+p66
+sS'March of the Wooden Soldiers (a.k.a. Babes in Toyland) (1934)'
+p67
+S'0024852'
+p68
+sS'Mouse Hunt (1997)'
+p69
+S'1273870'
+p70
+sS'Rumble in the Bronx (Hont faan kui) (1995)'
+p71
+S'0113326'
+p72
+sS'Bay of Blood (a.k.a. Twitch of the Death Nerve) (Reazione a catena) (1971)'
+p73
+S'0067656'
+p74
+sS'Eternity and a Day (Mia aoniotita kai mia mera) (1998)'
+p75
+S'0156794'
+p76
+sS'Eyes Without a Face (Yeux sans visage, Les) (1959)'
+p77
+S'0053459'
+p78
+sS'Chambermaid on the Titanic, The (Femme de chambre du Titanic, La) (1998)'
+p79
+S'0129923'
+p80
+sS'Cinema Paradiso (Nuovo cinema Paradiso) (1989)'
+p81
+S'0095765'
+p82
+sS'Emperor and the Assassin, The (Jing ke ci qin wang) (1999)'
+p83
+S'0162866'
+p84
+sS'L\xc3\xa9on: The Professional (a.k.a. The Professional) (L\xc3\xa9on) (1994)'
+p85
+S'0110413'
+p86
+sS'Yes, Madam (a.k.a. Police Assassins) (a.k.a. In the Line of Duty 2) (Huang gu shi jie) (1985)'
+p87
+S'0093229'
+p88
+sS'Dear Jesse (1997)'
+p89
+S'0150290'
+p90
+sS'Three Caballeros, The (1945)'
+p91
+S'0038166'
+p92
+sS'Highlander III: The Sorcerer (a.k.a. Highlander: The Final Dimension) (1994)'
+p93
+S'0110027'
+p94
+sS'Mrs. Brown (a.k.a. Her Majesty, Mrs. Brown) (1997)'
+p95
+S'1819022'
+p96
+sS'Hoosiers (a.k.a. Best Shot) (1986)'
+p97
+S'0091217'
+p98
+sS'Killer (a.k.a. Bulletproof Heart) (1994)'
+p99
+S'0097202'
+p100
+sS'Little Big Man (1970)'
+p101
+S'0065988'
+p102
+sS'Alice, Sweet Alice (a.k.a. Communion) (a.k.a. Holy Terror) (1976)'
+p103
+S'0076150'
+p104
+sS'Armour of God (Operation Condor 2) (Long xiong hu di) (1987)'
+p105
+S'0091431'
+p106
+sS'Tomb of Ligeia, The (1965)'
+p107
+S'0059821'
+p108
+sS'Dear Diary (Caro Diario) (1994)'
+p109
+S'0109382'
+p110
+sS'Best Man, The (Testimone dello sposo, Il) (1998)'
+p111
+S'0168501'
+p112
+sS'Texas Chainsaw Massacre: The Next Generation (a.k.a. The Return of the Texas Chainsaw Massacre) (1994)'
+p113
+S'0110978'
+p114
+sS'Even Dwarfs Started Small (Auch Zwerge haben klein angefangen) (1971)'
+p115
+S'0065436'
+p116
+sS'Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)'
+p117
+S'0115012'
+p118
+sS'Jules and Jim (Jules et Jim) (1961)'
+p119
+S'0055032'
+p120
+sS'Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964)'
+p121
+S'0058450'
+p122
+sS'Time of the Gypsies (Dom za vesanje) (1989)'
+p123
+S'0097223'
+p124
+sS'Navigator: A Mediaeval Odyssey, The (1988)'
+p125
+S'0095709'
+p126
+sS'Wedding Gift, The (1994)'
+p127
+S'0893566'
+p128
+sS'Chopping Mall (a.k.a. Killbots) (1986)'
+p129
+S'0090837'
+p130
+sS'Indian Summer (a.k.a. Alive & Kicking) (1996)'
+p131
+S'0107212'
+p132
+sS'Million Dollar Duck, The (a.k.a. $1,000,000 Duck) (1971)'
+p133
+S'0066728'
+p134
+sS'Day the Sun Turned Cold, The (Tianguo niezi) (1994)'
+p135
+S'0111424'
+p136
+sS'Love Bug, The (1969)'
+p137
+S'0064603'
+p138
+sS'Alien\xc2\xb3 (a.k.a. Alien 3) (1992)'
+p139
+S'0103644'
+p140
+sS"Enfer, L' (1994)"
+p141
+S'0088320'
+p142
+sS'Seven (a.k.a. Se7en) (1995)'
+p143
+S'0114369'
+p144
+sS'Twelve Monkeys (a.k.a. 12 Monkeys) (1995)'
+p145
+S'3148266'
+p146
+sS'Prisoner of the Mountains (Kavkazsky plennik) (1996)'
+p147
+S'0116754'
+p148
+sS'RocketMan (a.k.a. Rocket Man) (1997)'
+p149
+S'0120029'
+p150
+sS'Alice in Wonderland (1951)'
+p151
+S'1014759'
+p152
+sS'Burnt by the Sun (Utomlyonnye solntsem) (1994)'
+p153
+S'0111579'
+p154
+sS'Godzilla (a.k.a. Godzilla 1985: The Legend Is Reborn) (Gojira) (1984)'
+p155
+S'0831387'
+p156
+sS'Independence Day (a.k.a. ID4) (1996)'
+p157
+S'0116629'
+p158
+sS'Last of the High Kings, The (a.k.a. Summer Fling) (1996)'
+p159
+S'0116833'
+p160
+sS'Chef in Love, A (Shekvarebuli kulinaris ataserti retsepti) (1997)'
+p161
+S'0117050'
+p162
+sS'Koyaanisqatsi (a.k.a. Koyaanisqatsi: Life Out of Balance) (1983)'
+p163
+S'0085809'
+p164
+sS'My Dog Skip (1999)'
+p165
+S'0156812'
+p166
+sS'Bloodsport 2 (a.k.a. Bloodsport II: The Next Kumite) (1996)'
+p167
+S'0112536'
+p168
+sS"Buffalo '66 (a.k.a. Buffalo 66) (1998)"
+p169
+S'0118789'
+p170
+sS'Tie Me Up! Tie Me Down! (\xc2\xa1\xc3\x81tame!) (1990)'
+p171
+S'0101026'
+p172
+sS"Besieged (a.k.a. L' Assedio) (1998)"
+p173
+S'0149723'
+p174
+sS'Eraser (1996)'
+p175
+S'0116213'
+p176
+sS'Oscar and Lucinda (a.k.a. Oscar & Lucinda) (1997)'
+p177
+S'0119843'
+p178
+sS'Beefcake (1999)'
+p179
+S'0187712'
+p180
+sS'Substitute, The (1996)'
+p181
+S'0117774'
+p182
+sS'Glory Daze (1996)'
+p183
+S'0116422'
+p184
+sS'Nosferatu in Venice (a.k.a. Vampire in Venice) (Nosferatu a Venezia) (1986)'
+p185
+S'0091651'
+p186
+sS'Backbeat (1993)'
+p187
+S'0106339'
+p188
+s.

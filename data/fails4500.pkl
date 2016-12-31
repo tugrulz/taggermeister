@@ -1,0 +1,168 @@
+(lp0
+S'Zombie (a.k.a. Zombie 2: The Dead Are Among Us) (Zombi 2) (1979)'
+p1
+aS'Honeysuckle Rose (a.k.a. On the Road Again) (1980)'
+p2
+aS'Monster Club, The (1980)'
+p3
+aS'Ninth Configuration, The (a.k.a. Twinkle, Twinkle, Killer Kane) (1980)'
+p4
+aS'North Sea Hijack (a.k.a. Ffolkes) (1979)'
+p5
+aS'Burial Ground (a.k.a. Zombie Horror) (a.k.a. Zombie 3) (Notti del Terrore, Le) (1981)'
+p6
+aS'Super Fuzz (a.k.a. Super Snooper) (Poliziotto superpi\xc3\xb9) (1980)'
+p7
+aS'Shogun Assassin (1980)'
+p8
+aS'Charter Trip, The (a.k.a. Package Tour, The) (S\xc3\xa4llskapsresan) (1980)'
+p9
+aS'Rome, Open City (a.k.a. Open City) (Roma, citt\xc3\xa0 aperta) (1945)'
+p10
+aS'Dogtown and Z-Boyz (2001)'
+p11
+aS'Delirious (1991)'
+p12
+aS"Lady and the Duke, The (Anglaise et le duc, L') (2001)"
+p13
+aS'River of No Return (1954)'
+p14
+aS'Zombie Holocaust (a.k.a. Doctor Butcher M.D.) (Zombi Holocaust) (1980)'
+p15
+aS'Five Card Stud (a.k.a. 5 Card Stud) (1968)'
+p16
+aS'Sorry, Wrong Number (1948)'
+p17
+aS'V. I. Warshawski (1991)'
+p18
+aS'Men in Black II (a.k.a. MIIB) (a.k.a. MIB 2) (2002)'
+p19
+aS'All About Lily Chou-Chou (Riri Shushu no subete) (2001)'
+p20
+aS'Happy Times (Xingfu shiguang) (2000)'
+p21
+aS'Tadpole (2002)'
+p22
+aS"Last Kiss, The (Ultimo bacio, L') (2001)"
+p23
+aS"Amy's O (a.k.a. Amy's Orgasm) (2001)"
+p24
+aS'976-EVIL (1989)'
+p25
+aS'FearDotCom (a.k.a. Fear.com) (a.k.a. Fear Dot Com) (2002)'
+p26
+aS"Slap Her... She's French (a.k.a. She Gets What She Wants) (2002)"
+p27
+aS'His Secret Life (a.k.a. Ignorant Fairies, The) (Fate ignoranti, Le) (2001)'
+p28
+aS'Pokemon 4 Ever (a.k.a. Pok\xc3\xa9mon 4: The Movie) (2002)'
+p29
+aS'Take Care of My Cat (Goyangileul butaghae) (2001)'
+p30
+aS"Puma Man, The (a.k.a. The Pumaman) (L'Uomo Puma) (1980)"
+p31
+aS'Banana Joe (1981)'
+p32
+aS'Goat, The (a.k.a. Knock On Wood) (Ch\xc3\xa8vre, La) (1981)'
+p33
+aS'Enter the Ninja (a.k.a. Ninja I) (1981)'
+p34
+aS'Entity, The (1981)'
+p35
+aS'Eyewitness (a.k.a. The Janitor) (1981)'
+p36
+aS'Faces of Death 5 (1996)'
+p37
+aS'Ms. 45 (a.k.a. Angel of Vengeance) (1981)'
+p38
+aS'Pursuit of D.B. Cooper, The (a.k.a. Pursuit) (1981)'
+p39
+aS"What to Do in Case of Fire (Was tun, wenn's brennt?) (2002)"
+p40
+aS'Visitor Q (Bizita Q) (2001)'
+p41
+aS'Victory (a.k.a. Escape to Victory) (1981)'
+p42
+aS'King of Comedy, The (1983)'
+p43
+aS'City of Lost Souls, The (Hy\xc3\xb4ryuu-gai) (2000)'
+p44
+aS'Liquid Sky (1982)'
+p45
+aS'Blind Chance (Przypadek) (1981)'
+p46
+aS'They Call Me Bruce? (a.k.a. A Fistful of Chopsticks) (1982)'
+p47
+aS'Dark Blue (2003)'
+p48
+aS'Lawless Heart, The (2003)'
+p49
+aS'Volcano High (Whasango) (2001)'
+p50
+aS'Lost Honor of Katharina Blum, The (Verlorene Ehre der Katharina Blum oder: Wie Gewalt entstehen und wohin sie f\xc3\xbchren kann, Die) (1975)'
+p51
+aS'Glenn Miller Story, The (1953)'
+p52
+aS'Japon (a.k.a. Japan) (Jap\xc3\xb3n) (2002)'
+p53
+aS'Bible, The (a.k.a. Bible... In the Beginning, The) (1966)'
+p54
+aS'Chasing Papi (a.k.a. Papi Chulo) (2003)'
+p55
+aS"Man on the Train (Homme du train, L') (2002)"
+p56
+aS'Together (Han ni Zai Yiki) (2002)'
+p57
+aS'Crazies, The (a.k.a. Code Name: Trixie) (1973)'
+p58
+aS'Sink the Bismark! (1960)'
+p59
+aS'Rhapsody in August (Hachi-gatsu no ky\xc3\xb4shikyoku) (1991)'
+p60
+aS'Earth (1998)'
+p61
+aS'So Close (Chik Yeung Tin Sai) (2002)'
+p62
+aS'Once Upon a Time in China II (Wong Fei-hung Ji Yi: Naam yi dong ji keung) (1992)'
+p63
+aS'Once Upon a Time in China III (Wong Fei-hung tsi sam: Siwong tsangba) (1993)'
+p64
+aS'Jacob the Liar (Jakob, der L\xc3\xbcgner) (1975)'
+p65
+aS"Apartment, The (Appartement, L') (1996)"
+p66
+aS'Barber of Siberia, The (Sibirskij tsiryulnik) (1998)'
+p67
+aS'Time and Tide (Seunlau Ngaklau) (2000)'
+p68
+aS'Ninja Scroll (J\xc3\xbbbei ninp\xc3\xbbch\xc3\xb4) (1995)'
+p69
+aS'Texas Chainsaw Massacre, The (2003)'
+p70
+aS'Returner (Ritaanaa) (2002)'
+p71
+aS'Unvanquished, The (Aparajito) (1957)'
+p72
+aS'Revolution Will Not Be Televised, The (a.k.a. Chavez: Inside the Coup) (2003)'
+p73
+aS"My Architect: A Son's Journey (2003)"
+p74
+aS'Jane Eyre (1944)'
+p75
+aS'Great Train Robbery, The (a.k.a. First Great Train Robbery, The) (1979)'
+p76
+aS"Lover, The (Amant, L') (1992)"
+p77
+aS'Salo, or The 120 Days of Sodom (Sal\xc3\xb2 o le 120 giornate di Sodoma) (1976)'
+p78
+aS'Secret of My Succe$s, The (a.k.a. The Secret of My Success) (1987)'
+p79
+aS"Last Year at Marienbad (Ann\xc3\xa9e derni\xc3\xa8re \xc3\xa0 Marienbad, L') (1961)"
+p80
+aS'Macbeth (a.k.a. Tragedy of Macbeth, The) (1971)'
+p81
+aS'Court Jester, The (1956)'
+p82
+aS'Beyond the Clouds (Al di l\xc3\xa0 delle nuvole) (1996)'
+p83
+a.

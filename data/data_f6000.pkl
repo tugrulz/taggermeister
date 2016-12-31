@@ -1,0 +1,526 @@
+(dp0
+S"Bird with the Crystal Plumage, The (Uccello dalle piume di cristallo, L') (1970)"
+p1
+S'0065143'
+p2
+sS'Puffy Chair, The (2006)'
+p3
+S'0436689'
+p4
+sS'Fog, The (2005)'
+p5
+S'0080749'
+p6
+sS'Nanny McPhee Returns (a.k.a. Nanny McPhee and the Big Bang) (2010)'
+p7
+S'1415283'
+p8
+sS'Chinese Ghost Story, A (Sinnui yauwan) (1987)'
+p9
+S'0093978'
+p10
+sS'Company, The (2003)'
+p11
+S'4338336'
+p12
+sS"Block Party (a.k.a. Dave Chappelle's Block Party) (2005)"
+p13
+S'0425598'
+p14
+sS'Tangled (2010)'
+p15
+S'0398286'
+p16
+sS"Scent of Green Papaya, The (M\xc3\xb9i du du xhan - L'odeur de la papaye verte) (1993)"
+p17
+S'0107617'
+p18
+sS'Bonjour tristesse (1958)'
+p19
+S'0051429'
+p20
+sS'All of Me (1984)'
+p21
+S'0086873'
+p22
+sS"Elevator to the Gallows (a.k.a. Frantic) (Ascenseur pour l'\xc3\xa9chafaud) (1958)"
+p23
+S'0051378'
+p24
+sS"King's Speech, The (2010)"
+p25
+S'1504320'
+p26
+sS'Hostel: Part II (2007)'
+p27
+S'0498353'
+p28
+sS'Shooting Dogs (a.k.a. Beyond the Gates) (2005)'
+p29
+S'0420901'
+p30
+sS"Mr. Toad's Wild Ride (a.k.a. The Wind in the Willows) (1996)"
+p31
+S'0118172'
+p32
+sS'Days of Being Wild (A Fei jingjyuhn) (1990)'
+p33
+S'0101258'
+p34
+sS"Ivan's Childhood (a.k.a. My Name is Ivan) (Ivanovo detstvo) (1962)"
+p35
+S'0056111'
+p36
+sS'Kingdom II, The (Riget II) (1997)'
+p37
+S'0390163'
+p38
+sS'Berlin: Symphony of a Great City (Berlin: Die Sinfonie der Gro\xc3\x9fstadt) (1927)'
+p39
+S'0017668'
+p40
+sS'To Be or Not to Be (1983)'
+p41
+S'0035446'
+p42
+sS'Witchfinder General (Conquerer Worm, The) (1968)'
+p43
+S'0063285'
+p44
+sS'Blade: Trinity (2004)'
+p45
+S'0359013'
+p46
+sS'Short Film About Killing, A (Kr\xc3\xb3tki film o zabijaniu) (1988)'
+p47
+S'0095468'
+p48
+sS"Atalante, L' (1934)"
+p49
+S'0024844'
+p50
+sS'Flipper (1963)'
+p51
+S'0057748'
+p52
+sS'Soldier of Orange (a.k.a. Survival Run) (Soldaat van Oranje) (1977)'
+p53
+S'0076734'
+p54
+sS'Death of a President (2006)'
+p55
+S'0853096'
+p56
+sS'Coco Chanel & Igor Stravinsky (2009)'
+p57
+S'1023441'
+p58
+sS'Manchurian Candidate, The (2004)'
+p59
+S'0368008'
+p60
+sS"Baadasssss! (a.k.a. How to Get the Man's Foot Outta Your Ass) (2003)"
+p61
+S'0367790'
+p62
+sS'Vampires Suck (2010)'
+p63
+S'1666186'
+p64
+sS'Italian, The (Italianetz) (2005)'
+p65
+S'0317740'
+p66
+sS'Roommate, The (2011)'
+p67
+S'1265990'
+p68
+sS'My Winnipeg (2007)'
+p69
+S'1093842'
+p70
+sS'School for Scoundrels (2006)'
+p71
+S'0462519'
+p72
+sS'Turtles Can Fly (Lakposhtha h\xc3\xa2m parvaz mikonand) (2004)'
+p73
+S'0424227'
+p74
+sS'Memories of Murder (Salinui chueok) (2003)'
+p75
+S'0353969'
+p76
+sS'Shock Corridor (1963)'
+p77
+S'0057495'
+p78
+sS'Lord Jim (1965)'
+p79
+S'0059399'
+p80
+sS"Last Man on Earth, The (Ultimo uomo della Terra, L') (1964)"
+p81
+S'3230454'
+p82
+sS'I Saw the Devil (Akmareul boatda) (2010)'
+p83
+S'1588170'
+p84
+sS"Gulliver's Travels (2010)"
+p85
+S'1320261'
+p86
+sS'Enduring Love (2004)'
+p87
+S'0375735'
+p88
+sS'Dead Girl, The (2006)'
+p89
+S'0896534'
+p90
+sS'Cry_Wolf (a.k.a. Cry Wolf) (2005)'
+p91
+S'0384286'
+p92
+sS'I.O.U.S.A. (a.k.a. IOUSA) (2008)'
+p93
+S'0963807'
+p94
+sS'Green Street Hooligans (a.k.a. Hooligans) (2005)'
+p95
+S'0385002'
+p96
+sS"Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)"
+p97
+S'1028532'
+p98
+sS'Alice (Neco z Alenky) (1988)'
+p99
+S'1014759'
+p100
+sS'36 Quai des Orf\xc3\xa8vres (Department 36) (2004)'
+p101
+S'0390808'
+p102
+sS'Assassination of a High School President (2008)'
+p103
+S'1018818'
+p104
+sS'Sex Drive (2008)'
+p105
+S'1135985'
+p106
+sS'Shrek Forever After (a.k.a. Shrek: The Final Chapter) (2010)'
+p107
+S'0892791'
+p108
+sS'Oxford Murders, The (2007)'
+p109
+S'0488604'
+p110
+sS'After School Special (a.k.a. Barely Legal) (2003)'
+p111
+S'0302297'
+p112
+sS'Lone Wolf and Cub: Sword of Vengeance (Kozure \xc3\x94kami: Kowokashi udekashi tsukamatsuru) (1972)'
+p113
+S'0068815'
+p114
+sS'Earthlings (2006)'
+p115
+S'0330251'
+p116
+sS'Ghost in the Shell 2: Innocence (a.k.a. Innocence) (Inosensu) (2004)'
+p117
+S'0347246'
+p118
+sS'Trip, The (2010)'
+p119
+S'0117765'
+p120
+sS'Robot Carnival (Roboto k\xc3\xa2nibauru) (1987)'
+p121
+S'0093871'
+p122
+sS'No Good Deed (a.k.a. The House on Turk Street) (2002)'
+p123
+S'2011159'
+p124
+sS'Weekend (a.k.a. Le Week-end) (Week End) (1967)'
+p125
+S'1714210'
+p126
+sS'Fanboys (2008)'
+p127
+S'0489049'
+p128
+sS'Cairo Time (2009)'
+p129
+S'0896529'
+p130
+sS'Towelhead (a.k.a. Nothing is Private) (2007)'
+p131
+S'0787523'
+p132
+sS'Mutant Chronicles (2008)'
+p133
+S'0490181'
+p134
+sS'Terra (a.k.a. Battle for Terra) (2007)'
+p135
+S'0858486'
+p136
+sS'Special Relationship, The (2010)'
+p137
+S'1117646'
+p138
+sS'Enforcer, The (1951)'
+p139
+S'0074483'
+p140
+sS'Hidden (a.k.a. Cache) (Cach\xc3\xa9) (2005)'
+p141
+S'2131532'
+p142
+sS"Avventura, L' (Adventure, The) (1960)"
+p143
+S'0053619'
+p144
+sS'Funny Games U.S. (2007)'
+p145
+S'0808279'
+p146
+sS'My Voyage to Italy (Il mio viaggio in Italia) (1999)'
+p147
+S'0173772'
+p148
+sS'What the #$*! Do We Know!? (a.k.a. What the Bleep Do We Know!?) (2004)'
+p149
+S'0399877'
+p150
+sS'Return, The (Vozvrashcheniye) (2003)'
+p151
+S'4791398'
+p152
+sS'Thick as Thieves (a.k.a. Code, The) (2009)'
+p153
+S'1112782'
+p154
+sS'Andrei Rublev (Andrey Rublyov) (1969)'
+p155
+S'0060107'
+p156
+sS'Reefer Madness (a.k.a. Tell Your Children) (1938)'
+p157
+S'0404364'
+p158
+sS'Samurai III: Duel on Ganryu Island (a.k.a. Bushido) (Miyamoto Musashi kanketsuhen: kett\xc3\xb4 Ganry\xc3\xbbjima) (1956)'
+p159
+S'0049710'
+p160
+sS'D.O.A. (1950)'
+p161
+S'0398913'
+p162
+sS'Play Time (a.k.a. Playtime) (1967)'
+p163
+S'0062136'
+p164
+sS'Centurion (2010)'
+p165
+S'1020558'
+p166
+sS'Cannibal! The Musical (a.k.a. Alferd Packer: The Musical) (1996)'
+p167
+S'0115819'
+p168
+sS'They Call Me Trinity (Lo chiamavano Trinit\xc3\xa0) (1971)'
+p169
+S'0067355'
+p170
+sS'Popular Music (Popul\xc3\xa4rmusik fr\xc3\xa5n Vittula) (2004)'
+p171
+S'0314524'
+p172
+sS'Pom Poko (a.k.a. Raccoon War, The) (Heisei tanuki gassen pompoko) (1994)'
+p173
+S'0110008'
+p174
+sS'Summer Wars (Sam\xc3\xa2 w\xc3\xb4zu) (2009)'
+p175
+S'1474276'
+p176
+sS'Bottle Shock (2008)'
+p177
+S'0914797'
+p178
+sS'Once (2006)'
+p179
+S'0907657'
+p180
+sS'Sacrifice, The (Offret - Sacraficatio) (1986)'
+p181
+S'2078718'
+p182
+sS'Night and Fog (Nuit et brouillard) (1955)'
+p183
+S'0048434'
+p184
+sS"Happenstance (Battement d'ailes du papillon, Le) (2001)"
+p185
+S'0243135'
+p186
+sS"I'm a Cyborg, But That's OK (Saibogujiman kwenchana) (2006)"
+p187
+S'0497137'
+p188
+sS'Winter Sleepers (Winterschl\xc3\xa4fer) (2000)'
+p189
+S'0120522'
+p190
+sS'Dresser, The (1983)'
+p191
+S'4247618'
+p192
+sS'Arthur (2011)'
+p193
+S'0082031'
+p194
+sS'High Tension (a.k.a. Switchblade Romance) (Haute tension) (2003)'
+p195
+S'0338095'
+p196
+sS'Suicide Club (Jisatsu saakuru) (2001)'
+p197
+S'0312843'
+p198
+sS"Eclisse, L' (Eclipse) (1962)"
+p199
+S'0056736'
+p200
+sS'Rooster Cogburn (1975)'
+p201
+S'0073636'
+p202
+sS'Hoax, The (2007)'
+p203
+S'0462338'
+p204
+sS'Coach Carter (2005)'
+p205
+S'0393162'
+p206
+sS'Young and the Damned, The (Los Olvidados) (1950)'
+p207
+S'2475730'
+p208
+sS'Fury (1936)'
+p209
+S'2713180'
+p210
+sS'Gun Crazy (a.k.a. Deadly Is the Female) (1949)'
+p211
+S'0042530'
+p212
+sS'Love Song for Bobby Long, A (2004)'
+p213
+S'0369672'
+p214
+sS'Young People Fucking (a.k.a. YPF) (2007)'
+p215
+S'0913445'
+p216
+sS"Summer Hours (Heure d'\xc3\xa9t\xc3\xa9, L') (2008)"
+p217
+S'0836700'
+p218
+sS'High and Low (Tengoku to jigoku) (1963)'
+p219
+S'0057565'
+p220
+sS'Reign Over Me (2007)'
+p221
+S'0490204'
+p222
+sS'Master of the Flying Guillotine (Du bi quan wang da po xue di zi) (1975)'
+p223
+S'0072913'
+p224
+sS'Boat That Rocked, The (a.k.a. Pirate Radio) (2009)'
+p225
+S'1131729'
+p226
+sS'Harsh Times (2006)'
+p227
+S'0433387'
+p228
+sS"Herod's Law (Ley de Herodes, La) (2000)"
+p229
+S'0221344'
+p230
+sS"Man Who Planted Trees, The (Homme qui plantait des arbres, L') (1987)"
+p231
+S'0093488'
+p232
+sS'Young at Heart (a.k.a. Young@Heart) (2007)'
+p233
+S'1906329'
+p234
+sS'Yakuza, The (1975)'
+p235
+S'0073918'
+p236
+sS'Duck, You Sucker (a.k.a. Fistful of Dynamite, A) (Gi\xc3\xb9 la testa) (1971)'
+p237
+S'0067140'
+p238
+sS'Protector, The (a.k.a. Warrior King) (Tom yum goong) (2005)'
+p239
+S'1925518'
+p240
+sS'Ghost in the Machine (a.k.a. Deadly Terror) (1993)'
+p241
+S'0107009'
+p242
+sS'Rhinestone (1984)'
+p243
+S'0088001'
+p244
+sS'Dumplings (Gaau ji) (2004)'
+p245
+S'0420251'
+p246
+sS'Unleashed (Danny the Dog) (2005)'
+p247
+S'0342258'
+p248
+sS'Floating Weeds (Ukigusa) (1959)'
+p249
+S'0053390'
+p250
+sS"Jet Li's Fearless (Huo Yuan Jia) (2006)"
+p251
+S'0446059'
+p252
+sS'Maltese Falcon, The (a.k.a. Dangerous Female) (1931)'
+p253
+S'0033870'
+p254
+sS'Wonderful Days (a.k.a. Sky Blue) (2003)'
+p255
+S'0353014'
+p256
+sS'Happy Together (a.k.a. Buenos Aires Affair) (Chun gwong cha sit) (1997)'
+p257
+S'0118845'
+p258
+sS'Vitelloni, I (a.k.a. The Young and the Passionate) (1953)'
+p259
+S'0046521'
+p260
+sS'Who Am I? (Wo shi shei) (1998)'
+p261
+S'0127357'
+p262
+s.

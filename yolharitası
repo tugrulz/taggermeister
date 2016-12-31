@@ -1,0 +1,240 @@
+1- Filmleri eşle
+2- Bleak olan movieleri bul
+3- Tf idf bak
+4- Tf idf'dekilerin wordnetlerini al
+5- Tf idf'dekilerin terslerini de al veya bleak'in tersi movieleri bul
+6- Train yap
+7- Classification
+
+1- CNN yap
+2- Pandadan film listesi çek
+3- Datasete koy
+4- Train et.
+5- Performans
+
+
+1- Genre tag similarity
+2- Tag-tag simiarity yap tagnete koy
+
+
+/usr/bin/python "/home/tugrulz/PycharmProjects/taggermeister/tf model2.py"
+/usr/local/lib/python2.7/dist-packages/gensim/utils.py:1015: UserWarning: Pattern library is not installed, lemmatization won't be available.
+  warnings.warn("Pattern library is not installed, lemmatization won't be available.")
+2016-12-27 05:31:47,436 : INFO : 'pattern' package not found; tag filters are not available for English
+/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+No subtitle for Road, The (2009) of iteration 4
+No subtitle for Return, The (Vozvrashcheniye) (2003) of iteration 6
+No subtitle for Panic in Needle Park, The (1971) of iteration 59
+No subtitle for Entertainer, The (1960) of iteration 102
+No subtitle for Cheetah (1989) of iteration 1
+No subtitle for Little Men (1998) of iteration 8
+No subtitle for Company Man (2000) of iteration 18
+No subtitle for Super Fuzz (a.k.a. Super Snooper) (Poliziotto superpiù) (1980) of iteration 19
+No subtitle for Bad Dreams (1988) of iteration 22
+No subtitle for Born to Be Wild (1995) of iteration 26
+No subtitle for Second Jungle Book: Mowgli & Baloo, The (1997) of iteration 27
+No subtitle for Dr. Jekyll and Ms. Hyde (1995) of iteration 39
+No subtitle for Brenda Starr (1989) of iteration 43
+No subtitle for Carnosaur 2 (1995) of iteration 54
+No subtitle for Article 99 (1992) of iteration 57
+No subtitle for H.O.T.S. (1979) of iteration 59
+No subtitle for Skinwalkers (2007) of iteration 65
+No subtitle for Slaughterhouse (1987) of iteration 69
+No subtitle for Masterminds (1997) of iteration 82
+No subtitle for Carnosaur 3: Primal Species (1996) of iteration 83
+No subtitle for Bible, The (a.k.a. Bible... In the Beginning, The) (1966) of iteration 86
+No subtitle for Garfield: The Movie (2004) of iteration 90
+No subtitle for Sidekicks (1992) of iteration 92
+No subtitle for Next Best Thing, The (2000) of iteration 97
+No subtitle for Resurrection Man (1998) of iteration 104
+No subtitle for Margaret Cho: Assassin (2005) of iteration 106
+No subtitle for Survivors, The (1983) of iteration 110
+No subtitle for Eye, The (2008) of iteration 120
+No subtitle for Gold Diggers: The Secret of Bear Mountain (1995) of iteration 123
+Reducing dimension...
+Training...
+/usr/local/lib/python2.7/dist-packages/sklearn/neural_network/multilayer_perceptron.py:563: ConvergenceWarning: Stochastic Optimizer: Maximum iterations reached and the optimization hasn't converged yet.
+  % (), ConvergenceWarning)
+length of best
+20
+length of worst
+20
+Writing results...
+[[ 0.39256203  0.60743797]
+ [ 0.07680478  0.92319522]
+ [ 0.2191686   0.7808314 ]
+ [ 0.12672186  0.87327814]
+ [ 0.04845035  0.95154965]
+ [ 0.29501345  0.70498655]
+ [ 0.1154275   0.8845725 ]
+ [ 0.02818067  0.97181933]
+ [ 0.78237495  0.21762505]
+ [ 0.27687234  0.72312766]
+ [ 0.03911205  0.96088795]
+ [ 0.16110666  0.83889334]
+ [ 0.07778113  0.92221887]
+ [ 0.0395042   0.9604958 ]
+ [ 0.06633299  0.93366701]
+ [ 0.28893802  0.71106198]
+ [ 0.10765003  0.89234997]
+ [ 0.35303859  0.64696141]
+ [ 0.11103681  0.88896319]
+ [ 0.94642285  0.05357715]
+ [ 0.05601187  0.94398813]
+ [ 0.80246291  0.19753709]
+ [ 0.88730153  0.11269847]
+ [ 0.92457727  0.07542273]
+ [ 0.93808465  0.06191535]
+ [ 0.88494771  0.11505229]
+ [ 0.96098203  0.03901797]
+ [ 0.92062689  0.07937311]
+ [ 0.67031681  0.32968319]
+ [ 0.98954822  0.01045178]
+ [ 0.98084597  0.01915403]
+ [ 0.77933039  0.22066961]
+ [ 0.9826541   0.0173459 ]
+ [ 0.48601607  0.51398393]
+ [ 0.91860802  0.08139198]
+ [ 0.97731     0.02269   ]
+ [ 0.95371467  0.04628533]
+ [ 0.93671364  0.06328636]
+ [ 0.62839216  0.37160784]
+ [ 0.83067205  0.16932795]]
+With overconfidence (Threshold > 0.85) 0.6
+With lowconfidence (Threshold > 0.7) 0.8
+0.9
+Writing results...
+[[ 0.24376242  0.75623758]
+ [ 0.          1.        ]
+ [ 0.37487198  0.62512802]
+ [ 0.05964466  0.94035534]
+ [ 0.          1.        ]
+ [ 0.          1.        ]
+ [ 0.          1.        ]
+ [ 0.          1.        ]
+ [ 0.4029691   0.5970309 ]
+ [ 0.20753117  0.79246883]
+ [ 0.          1.        ]
+ [ 0.          1.        ]
+ [ 0.          1.        ]
+ [ 0.          1.        ]
+ [ 0.          1.        ]
+ [ 0.06933578  0.93066422]
+ [ 0.          1.        ]
+ [ 0.          1.        ]
+ [ 0.          1.        ]
+ [ 1.          0.        ]
+ [ 0.          1.        ]
+ [ 0.93292154  0.06707846]
+ [ 1.          0.        ]
+ [ 1.          0.        ]
+ [ 1.          0.        ]
+ [ 1.          0.        ]
+ [ 1.          0.        ]
+ [ 1.          0.        ]
+ [ 0.77076653  0.22923347]
+ [ 1.          0.        ]
+ [ 1.          0.        ]
+ [ 1.          0.        ]
+ [ 1.          0.        ]
+ [ 0.32835668  0.67164332]
+ [ 1.          0.        ]
+ [ 1.          0.        ]
+ [ 1.          0.        ]
+ [ 1.          0.        ]
+ [ 1.          0.        ]
+ [ 1.          0.        ]]
+With overconfidence (Threshold > 0.85) 0.8
+With lowconfidence (Threshold > 0.7) 0.875
+0.925
+Writing results...
+[[ 0.4738609   0.5261391 ]
+ [ 0.0239686   0.9760314 ]
+ [ 0.09503531  0.90496469]
+ [ 0.04281076  0.95718924]
+ [ 0.04945305  0.95054695]
+ [ 0.26644831  0.73355169]
+ [ 0.21594165  0.78405835]
+ [ 0.00374277  0.99625723]
+ [ 0.92256516  0.07743484]
+ [ 0.40396759  0.59603241]
+ [ 0.03166896  0.96833104]
+ [ 0.23283283  0.76716717]
+ [ 0.08354178  0.91645822]
+ [ 0.03591441  0.96408559]
+ [ 0.01967     0.98033   ]
+ [ 0.23992206  0.76007794]
+ [ 0.05856132  0.94143868]
+ [ 0.30440175  0.69559825]
+ [ 0.08200574  0.91799426]
+ [ 0.96292012  0.03707988]
+ [ 0.02931466  0.97068534]
+ [ 0.7725556   0.2274444 ]
+ [ 0.79887785  0.20112215]
+ [ 0.94905679  0.05094321]
+ [ 0.96947332  0.03052668]
+ [ 0.66599503  0.33400497]
+ [ 0.97216313  0.02783687]
+ [ 0.94273715  0.05726285]
+ [ 0.68103443  0.31896557]
+ [ 0.99549997  0.00450003]
+ [ 0.98864434  0.01135566]
+ [ 0.84637417  0.15362583]
+ [ 0.99500659  0.00499341]
+ [ 0.77071409  0.22928591]
+ [ 0.91318611  0.08681389]
+ [ 0.98897825  0.01102175]
+ [ 0.94362359  0.05637641]
+ [ 0.96761635  0.03238365]
+ [ 0.6527451   0.3472549 ]
+ [ 0.93274399  0.06725601]]
+With overconfidence (Threshold > 0.85) 0.575
+With lowconfidence (Threshold > 0.7) 0.775
+0.925
+Writing results...
+[[ 0.4738609   0.5261391 ]
+ [ 0.0239686   0.9760314 ]
+ [ 0.09503531  0.90496469]
+ [ 0.04281076  0.95718924]
+ [ 0.04945305  0.95054695]
+ [ 0.26644831  0.73355169]
+ [ 0.21594165  0.78405835]
+ [ 0.00374277  0.99625723]
+ [ 0.92256516  0.07743484]
+ [ 0.40396759  0.59603241]
+ [ 0.03166896  0.96833104]
+ [ 0.23283283  0.76716717]
+ [ 0.08354178  0.91645822]
+ [ 0.03591441  0.96408559]
+ [ 0.01967     0.98033   ]
+ [ 0.23992206  0.76007794]
+ [ 0.05856132  0.94143868]
+ [ 0.30440175  0.69559825]
+ [ 0.08200574  0.91799426]
+ [ 0.96292012  0.03707988]
+ [ 0.02931466  0.97068534]
+ [ 0.7725556   0.2274444 ]
+ [ 0.79887785  0.20112215]
+ [ 0.94905679  0.05094321]
+ [ 0.96947332  0.03052668]
+ [ 0.66599503  0.33400497]
+ [ 0.97216313  0.02783687]
+ [ 0.94273715  0.05726285]
+ [ 0.68103443  0.31896557]
+ [ 0.99549997  0.00450003]
+ [ 0.98864434  0.01135566]
+ [ 0.84637417  0.15362583]
+ [ 0.99500659  0.00499341]
+ [ 0.77071409  0.22928591]
+ [ 0.91318611  0.08681389]
+ [ 0.98897825  0.01102175]
+ [ 0.94362359  0.05637641]
+ [ 0.96761635  0.03238365]
+ [ 0.6527451   0.3472549 ]
+ [ 0.93274399  0.06725601]]
+With overconfidence (Threshold > 0.85) 0.3
+With lowconfidence (Threshold > 0.7) 0.775
+0.625
+
+Process finished with exit code 0
